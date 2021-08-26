@@ -16,7 +16,7 @@
         item:
           material: brewing_stand
           quantity: 1
-        buyPrice: 50
+        buyPrice: 70
         sellPrice: -1
         slot: 10
        2:
