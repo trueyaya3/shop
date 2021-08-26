@@ -375,7 +375,7 @@
         item:
           material: wither_rose      
           quantity: 1
-        buyPrice: 50
+        buyPrice: 200
         sellPrice: -1
         slot: 29
         page: 2
@@ -510,7 +510,7 @@
         item:
           material: HONEY_BLOCK 
           quantity: 1
-        buyPrice: 400
+        buyPrice: 200
         sellPrice: -1
         slot: 12
         page: 3 
