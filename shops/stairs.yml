@@ -48,7 +48,7 @@
         item:
           material: diorite_stairs
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 6.25
         sellPrice: -1
         slot: 14  
        6:
