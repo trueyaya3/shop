@@ -72,7 +72,7 @@
         item:
           material: nether_wart
           quantity: 1
-        buyPrice: 15
+        buyPrice: 50
         sellPrice: 1.5
         slot: 19  
        9:
