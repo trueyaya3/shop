@@ -32,7 +32,7 @@
         item:
           material: enchanting_table
           quantity: 1
-        buyPrice: 150
+        buyPrice: 200
         sellPrice: 50
         slot: 12   
        4:
@@ -40,7 +40,7 @@
         item:
           material: ANVIL
           quantity: 1
-        buyPrice: 70
+        buyPrice: 120
         sellPrice: -1
         slot: 13
        5:
