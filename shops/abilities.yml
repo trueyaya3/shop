@@ -17,7 +17,7 @@ abilities:
         item:
           material: PAPER
           quantity: 1
-          name: "&a&lОщистить квесты"
+          name: "&a&lОчистить квесты"
           damage: 0
         commands: 
           - "quests a moddata fullreset %PLAYER%"

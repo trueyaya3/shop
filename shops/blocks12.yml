@@ -106,8 +106,6 @@
           quantity: 1
         buyPrice: 39
         sellPrice: -1
-        buyPrice: 2500
-        sellPrice: -1
         slot: 23
        13:
         type: item

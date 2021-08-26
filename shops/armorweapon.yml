@@ -16,7 +16,7 @@
         item:
           material: bow        
           quantity: 1
-        buyPrice: 500
+        buyPrice: 100
         sellPrice: -1
         slot: 10
         page: 2       
@@ -34,7 +34,7 @@
         item:
           material: diamond_helmet      
           quantity: 1
-        buyPrice: 1000 
+        buyPrice: 500 
         sellPrice: -1
         slot: 12
        4:
@@ -42,7 +42,7 @@
         item:
           material: iron_helmet      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 13
        5:
@@ -50,7 +50,7 @@
         item:
           material: chainmail_helmet        
           quantity: 1
-        buyPrice: 400
+        buyPrice: 170
         sellPrice: -1
         slot: 14
        6:
@@ -84,7 +84,7 @@
         item:
           material: diamond_chestplate      
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 500
         sellPrice: -1
         slot: 21
        10:
@@ -92,7 +92,7 @@
         item:
           material: iron_chestplate        
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 22
        11:
@@ -100,7 +100,7 @@
         item:
           material: chainmail_chestplate       
           quantity: 1
-        buyPrice: 400
+        buyPrice: 170
         sellPrice: -1
         slot: 23
        12:
@@ -116,7 +116,7 @@
         item:
           material: diamond_sword        
           quantity: 1
-        buyPrice: 1000 
+        buyPrice: 500 
         sellPrice: -1
         slot: 20
         page: 2
@@ -125,7 +125,7 @@
         item:
           material: iron_sword       
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 21
         page: 2
@@ -134,7 +134,7 @@
         item:
           material: diamond_leggings       
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 500
         sellPrice: -1
         slot: 30
        16:
@@ -142,7 +142,7 @@
         item:
           material: iron_leggings       
           quantity: 1
-        buyPrice: 500 
+        buyPrice: 200
         sellPrice: -1
         slot: 31
        17:
@@ -150,7 +150,7 @@
         item:
           material: chainmail_leggings       
           quantity: 1
-        buyPrice: 400
+        buyPrice: 170
         sellPrice: -1
         slot: 32
        18:
@@ -166,7 +166,7 @@
         item:
           material: golden_sword       
           quantity: 1
-        buyPrice: 200
+        buyPrice: 100
         sellPrice: -1
         slot: 22
         page: 2
@@ -175,7 +175,7 @@
         item:
           material: stone_sword       
           quantity: 1
-        buyPrice: 100
+        buyPrice: 50
         sellPrice: -1
         slot: 23
         page: 2
@@ -184,7 +184,7 @@
         item:
           material: diamond_boots        
           quantity: 1
-        buyPrice: 1000 
+        buyPrice: 500 
         sellPrice: -1
         slot: 39
        22:
@@ -192,7 +192,7 @@
         item:
           material: iron_boots       
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 40
        23:
@@ -200,7 +200,7 @@
         item:
           material: chainmail_boots        
           quantity: 1
-        buyPrice: 400
+        buyPrice: 170
         sellPrice: -1
         slot: 41
        24:
@@ -225,7 +225,7 @@
         item:
           material: crossbow      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 11
         page: 2

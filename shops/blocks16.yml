@@ -16,7 +16,7 @@
         item:
           material: dead_tube_coral_block
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 100
         sellPrice: -1
         slot: 10       
        2:
@@ -24,7 +24,7 @@
         item:
           material: dead_brain_coral_block   
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 100
         sellPrice: -1
         slot: 11
        3:
@@ -32,7 +32,7 @@
         item:
           material: dead_bubble_coral_block  
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 100
         sellPrice: -1
         slot: 12
        4:
@@ -40,7 +40,7 @@
         item:
           material: dead_fire_coral_block    
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 100
         sellPrice: -1
         slot: 13
        5:
@@ -48,7 +48,7 @@
         item:
           material: dead_horn_coral_block    
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 100
         sellPrice: -1
         slot: 14
        6:
@@ -56,7 +56,7 @@
         item:
           material: tube_coral_block     
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 15
        7:
@@ -64,7 +64,7 @@
         item:
           material: brain_coral_block    
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 16
        8:
@@ -72,7 +72,7 @@
         item:
           material: bubble_coral_block   
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 19
        9:
@@ -80,7 +80,7 @@
         item:
           material: fire_coral_block    
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 20
        10:
@@ -88,7 +88,7 @@
         item:
           material: horn_coral_block 
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 21
        11:
@@ -96,7 +96,7 @@
         item:
           material: dried_kelp_block    
           quantity: 1
-        buyPrice: 250
+        buyPrice: 150
         sellPrice: -1
         slot: 22
        12:
@@ -104,7 +104,7 @@
         item:
           material: chorus_plant   
           quantity: 1
-        buyPrice: 93.75
+        buyPrice: 75
         sellPrice: -1
         slot: 23
        13:
@@ -112,7 +112,7 @@
         item:
           material: chorus_flower    
           quantity: 1
-        buyPrice: 93.75
+        buyPrice: 75
         sellPrice: -1
         slot: 24
        14:
@@ -128,7 +128,7 @@
         item:
           material: red_mushroom_block   
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 30
         sellPrice: -1
         slot: 28
        16:
@@ -136,7 +136,7 @@
         item:
           material: brown_mushroom_block     
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 30
         sellPrice: -1
         slot: 29
        17:
@@ -285,7 +285,7 @@
         item:
           material: tube_coral    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 15
         page: 2
@@ -294,7 +294,7 @@
         item:
           material: tube_coral_fan    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 16
         page: 2
@@ -303,7 +303,7 @@
         item:
           material: brain_coral    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 19
         page: 2
@@ -312,7 +312,7 @@
         item:
           material: brain_coral_fan    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 20
         page: 2
@@ -321,7 +321,7 @@
         item:
           material: bubble_coral  
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 21
         page: 2
@@ -330,7 +330,7 @@
         item:
           material: bubble_coral_fan     
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 22
         page: 2
@@ -339,7 +339,7 @@
         item:
           material: fire_coral    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 23
         page: 2
@@ -348,7 +348,7 @@
         item:
           material: fire_coral_fan    
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 24
         page: 2
@@ -357,7 +357,7 @@
         item:
           material: horn_coral     
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 25
         page: 2
@@ -366,7 +366,7 @@
         item:
           material: horn_coral_fan      
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 35
         sellPrice: -1
         slot: 28
         page: 2
@@ -375,7 +375,7 @@
         item:
           material: wither_rose      
           quantity: 1
-        buyPrice: 125
+        buyPrice: 50
         sellPrice: -1
         slot: 29
         page: 2
@@ -384,7 +384,7 @@
         item:
           material: scaffolding    
           quantity: 1
-        buyPrice: 125
+        buyPrice: 50
         sellPrice: -1
         slot: 30
         page: 2
@@ -393,7 +393,7 @@
         item:
           material: barrel   
           quantity: 1
-        buyPrice: 225
+        buyPrice: 50
         sellPrice: -1
         slot: 31
         page: 2
@@ -402,7 +402,7 @@
         item:
           material: loom    
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 50
         sellPrice: -1
         slot: 32
         page: 2
@@ -411,7 +411,7 @@
         item:
           material: smoker   
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 50
         sellPrice: -1
         slot: 33
         page: 2
@@ -420,7 +420,7 @@
         item:
           material: blast_furnace     
           quantity: 1
-        buyPrice: 2000
+        buyPrice: 50
         sellPrice: -1
         slot: 34
         page: 2
@@ -429,7 +429,7 @@
         item:
           material: cartography_table      
           quantity: 1
-        buyPrice: 3000
+        buyPrice: 50
         sellPrice: -1
         slot: 37
         page: 2
@@ -438,14 +438,14 @@
         item:
           material: fletching_table      
           quantity: 1
-        buyPrice: 2000
+        buyPrice: 50
         sellPrice: -1
         slot: 38
         page: 2
        52:
         type: item      
         item:
-          material: grindstone     
+          material: 50   
           quantity: 1
         buyPrice: 4000
         sellPrice: -1
@@ -456,7 +456,7 @@
         item:
           material: smithing_table     
           quantity: 1
-        buyPrice: 3000
+        buyPrice: 50
         sellPrice: -1
         slot: 40
         page: 2
@@ -465,7 +465,7 @@
         item:
           material: lantern  
           quantity: 1
-        buyPrice: 125
+        buyPrice: 25
         sellPrice: -1
         slot: 41
         page: 2
@@ -474,7 +474,7 @@
         item:
           material: Bell  
           quantity: 1
-        buyPrice: 400
+        buyPrice: 100
         sellPrice: -1
         slot: 42
         page: 2
@@ -483,7 +483,7 @@
         item:
           material: Campfire  
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 100
         sellPrice: -1
         slot: 43
         page: 2
@@ -492,7 +492,7 @@
         item:
           material: BEEHIVE
           quantity: 1
-        buyPrice: 600
+        buyPrice: 200
         sellPrice: -1
         slot: 10
         page: 3
@@ -501,7 +501,7 @@
         item:
           material: BEE_NEST 
           quantity: 1
-        buyPrice: 800
+        buyPrice: 300
         sellPrice: -1
         slot: 11
         page: 3
@@ -510,7 +510,7 @@
         item:
           material: HONEY_BLOCK 
           quantity: 1
-        buyPrice: 550
+        buyPrice: 400
         sellPrice: -1
         slot: 12
         page: 3 
@@ -519,7 +519,7 @@
         item:
           material: HONEYCOMB_BLOCK  
           quantity: 1
-        buyPrice: 60
+        buyPrice: 30
         sellPrice: 4
         slot: 13
         page: 3
@@ -537,7 +537,7 @@
         item:
           material: SOUL_TORCH  
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 4
         sellPrice: -1
         slot: 15
         page: 3
@@ -546,7 +546,7 @@
         item:
           material: SOUL_LANTERN
           quantity: 1
-        buyPrice: 175
+        buyPrice: 50
         sellPrice: -1
         slot: 16
         page: 3
@@ -555,7 +555,7 @@
         item:
           material: SOUL_CAMPFIRE
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 150
         sellPrice: -1
         slot: 19
         page: 3        
@@ -582,7 +582,7 @@
         item:
           material: LODESTONE
           quantity: 1
-        buyPrice: 600
+        buyPrice: 400
         sellPrice: -1
         slot: 22
         page: 3
@@ -591,7 +591,7 @@
         item:
           material: RESPAWN_ANCHOR
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 23
         page: 3
@@ -600,7 +600,7 @@
         item:
           material: TARGET
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 150
         sellPrice: -1
         slot: 24
         page: 3

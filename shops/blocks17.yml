@@ -32,7 +32,7 @@
         item:
           material: polished_deepslate  
           quantity: 1
-        buyPrice: 40
+        buyPrice: 20
         sellPrice: -1
         slot: 12
        4:
@@ -40,7 +40,7 @@
         item:
           material: deepslate_bricks    
           quantity: 1
-        buyPrice: 40
+        buyPrice: 25
         sellPrice: -1
         slot: 13
        5:
@@ -48,7 +48,7 @@
         item:
           material: deepslate_tiles    
           quantity: 1
-        buyPrice: 218.75
+        buyPrice: 40
         sellPrice: -1
         slot: 14
        6:
@@ -56,7 +56,7 @@
         item:
           material: chiseled_deepslate    
           quantity: 1
-        buyPrice: 250
+        buyPrice: 40
         sellPrice: -1
         slot: 15
        7:
@@ -64,7 +64,7 @@
         item:
           material: pointed_dripstone    
           quantity: 1
-        buyPrice: 31.25
+        buyPrice: 25
         sellPrice: 2.0
         slot: 16
        8:
@@ -72,7 +72,7 @@
         item:
           material: moss_block   
           quantity: 1
-        buyPrice: 6.5
+        buyPrice: 5
         sellPrice: -1
         slot: 19
        9:
@@ -80,7 +80,7 @@
         item:
           material: rooted_dirt    
           quantity: 1
-        buyPrice: 6.5
+        buyPrice: 5
         sellPrice: -1
         slot: 20
        10:
@@ -88,7 +88,7 @@
         item:
           material: powder_snow_bucket
           quantity: 1
-        buyPrice: 150
+        buyPrice: 70
         sellPrice: -1
         slot: 21
        11:
@@ -104,7 +104,7 @@
         item:
           material: glow_item_frame    
           quantity: 1
-        buyPrice: 150
+        buyPrice: 100
         sellPrice: -1
         slot: 24
        14:
@@ -112,7 +112,7 @@
         item:
           material: lightning_rod     
           quantity: 1
-        buyPrice: 100
+        buyPrice: 60
         sellPrice: -1
         slot: 25
        15:
@@ -120,7 +120,7 @@
         item:
           material: candle   
           quantity: 1
-        buyPrice: 6.50
+        buyPrice: 5
         sellPrice: -1
         slot: 28
        16:
@@ -128,7 +128,7 @@
         item:
           material: yellow_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 29
        17:
@@ -136,7 +136,7 @@
         item:
           material: white_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 30
        18:
@@ -144,7 +144,7 @@
         item:
           material: red_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 31
        19:
@@ -152,7 +152,7 @@
         item:
           material: purple_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 32
        20:
@@ -160,7 +160,7 @@
         item:
           material: pink_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 33
        21:
@@ -168,7 +168,7 @@
         item:
           material: orange_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 34
        22:
@@ -176,7 +176,7 @@
         item:
           material: magenta_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 37
        23:
@@ -184,7 +184,7 @@
         item:
           material: lime_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 38
        24:
@@ -192,7 +192,7 @@
         item:
           material: light_gray_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 39
        25:
@@ -200,7 +200,7 @@
         item:
           material: light_blue_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 40
        26:
@@ -208,7 +208,7 @@
         item:
           material: green_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 41
        27:
@@ -216,7 +216,7 @@
         item:
           material: gray_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 42
        28:
@@ -224,7 +224,7 @@
         item:
           material: cyan_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 43
        29:
@@ -232,7 +232,7 @@
         item:
           material: brown_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 10
         page: 2
@@ -241,7 +241,7 @@
         item:
           material: blue_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 11
         page: 2
@@ -250,7 +250,7 @@
         item:
           material: black_candle   
           quantity: 1
-        buyPrice: 7.50
+        buyPrice: 6
         sellPrice: -1
         slot: 12
         page: 2
