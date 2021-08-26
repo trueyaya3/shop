@@ -161,7 +161,7 @@
         item:
           material: NETHERITE_SCRAP
           quantity: 1
-        buyPrice: 75
+        buyPrice: 100
         sellPrice: -1
         slot: 30
       20:
@@ -169,7 +169,7 @@
         item:
           material: NETHERITE_BLOCK
           quantity: 1
-        buyPrice: 500
+        buyPrice: 600
         sellPrice: -1
         slot: 39
       21:
