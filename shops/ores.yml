@@ -1,0 +1,210 @@
+  ores:
+    name: "&8&nOres [page %page%/1]"
+    size: 54
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: ""   
+    items:
+      1:
+        type: item
+        item:
+          material: COAL
+          quantity: 1
+        buyPrice: 9.3
+        sellPrice: 2.5
+        slot: 10
+      2:
+        type: item
+        item:
+          material: LAPIS_LAZULI
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: 3
+        slot: 11
+      3:
+        type: item
+        item:
+          material: redstone
+          quantity: 1
+        buyPrice: 16
+        sellPrice: 3
+        slot: 12
+      4:
+        type: item
+        item:
+          material: iron_ingot
+          quantity: 1
+        buyPrice: 35
+        sellPrice: 9
+        slot: 13
+      5:
+        type: item
+        item:
+          material: gold_ingot
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 10
+        slot: 14
+      6:
+        type: item
+        item:
+          material: diamond
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 25
+        slot: 15
+      7:
+        type: item
+        item:
+          material: emerald
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 13
+        slot: 16
+      8:
+        type: item
+        item:
+          material: prismarine_shard
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 0.75
+        slot: 28   
+      9:
+        type: item
+        item:
+          material: quartz  
+          quantity: 1
+        buyPrice: 3
+        sellPrice: 1
+        slot: 29   
+      10:
+        type: item
+        item:
+          material: coal_block
+          quantity: 1
+        buyPrice: 83.7
+        sellPrice: 22.5
+        slot: 19
+      11:
+        type: item
+        item:
+          material: lapis_block
+          quantity: 1
+        buyPrice: 110
+        sellPrice: 27
+        slot: 20
+      12:
+        type: item
+        item:
+          material: redstone_block
+          quantity: 1
+        buyPrice: 144
+        sellPrice: 27
+        slot: 21  
+      13:
+        type: item
+        item:
+          material: iron_block
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 81
+        slot: 22   
+      14:
+        type: item
+        item:
+          material: gold_block  
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 90
+        slot: 23
+      15:
+        type: item
+        item:
+          material: diamond_block  
+          quantity: 1
+        buyPrice: 230
+        sellPrice: 225
+        slot: 24
+      16:
+        type: item
+        item:
+          material: emerald_block 
+          quantity: 1
+        buyPrice: 180
+        sellPrice: 113
+        slot: 25
+      17:
+        type: item
+        item:
+          material: prismarine 
+          quantity: 1
+        buyPrice: 60
+        sellPrice: 3
+        slot: 37
+      18:
+        type: item
+        item:
+          material: quartz_block 
+          quantity: 1
+        buyPrice: 12.5
+        sellPrice: 2
+        slot: 38
+      19:
+        type: item
+        item:
+          material: NETHERITE_SCRAP
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 27.5
+        slot: 30
+      20:
+        type: item
+        item:
+          material: NETHERITE_BLOCK
+          quantity: 1
+        buyPrice: 600
+        sellPrice: 337.5
+        slot: 39
+      21:
+        type: item
+        item:
+          material: AMETHYST_SHARD
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 4
+        slot: 31
+      22:
+        type: item
+        item:
+          material: AMETHYST_BLOCK
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 40
+      23:
+        type: item
+        item:
+          material: COPPER_INGOT
+          quantity: 1
+        buyPrice: 27
+        sellPrice: 2.5
+        slot: 32
+      24:
+        type: item
+        item:
+          material: COPPER_BLOCK
+          quantity: 1
+        buyPrice: 200
+        sellPrice: 22.5
+        slot: 41                
+      45:
+        type: special
+        special: balance
+        slot: 53        

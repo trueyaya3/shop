@@ -1,0 +1,32 @@
+abilities:
+    name: "&8&nAbility Shop [page %page%/1]"
+    size: 45
+    buttons:
+      goBack:
+        slot: 40   
+      previousPage:
+        slot: 39
+      nextPage:
+        slot: 41
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: ""        
+    items:
+       1:
+        type: command
+        item:
+          material: PAPER
+          quantity: 1
+          name: "&a&lОщистить квесты"
+          damage: 0
+        commands: 
+          - "quests a moddata fullreset %PLAYER%"
+        buyPrice: 1000
+        sellPrice: -1
+        slot: 22
+        
+        
+       2:
+        type: special
+        special: balance
+        slot: 44        

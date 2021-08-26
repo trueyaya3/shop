@@ -1,0 +1,265 @@
+  blocks17:
+    name: "&8&nNew Blocks 1.17 [page %page%/2]"
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: ""  
+    items:
+       1:
+        type: item
+        item:
+          material: deepslate
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 0.3
+        slot: 10       
+       2:
+        type: item      
+        item:
+          material: cobbled_deepslate   
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 0.2
+        slot: 11
+       3:
+        type: item      
+        item:
+          material: polished_deepslate  
+          quantity: 1
+        buyPrice: 40
+        sellPrice: -1
+        slot: 12
+       4:
+        type: item      
+        item:
+          material: deepslate_bricks    
+          quantity: 1
+        buyPrice: 40
+        sellPrice: -1
+        slot: 13
+       5:
+        type: item      
+        item:
+          material: deepslate_tiles    
+          quantity: 1
+        buyPrice: 218.75
+        sellPrice: -1
+        slot: 14
+       6:
+        type: item      
+        item:
+          material: chiseled_deepslate    
+          quantity: 1
+        buyPrice: 250
+        sellPrice: -1
+        slot: 15
+       7:
+        type: item      
+        item:
+          material: pointed_dripstone    
+          quantity: 1
+        buyPrice: 31.25
+        sellPrice: 2.0
+        slot: 16
+       8:
+        type: item      
+        item:
+          material: moss_block   
+          quantity: 1
+        buyPrice: 6.5
+        sellPrice: -1
+        slot: 19
+       9:
+        type: item      
+        item:
+          material: rooted_dirt    
+          quantity: 1
+        buyPrice: 6.5
+        sellPrice: -1
+        slot: 20
+       10:
+        type: item      
+        item:
+          material: powder_snow_bucket
+          quantity: 1
+        buyPrice: 150
+        sellPrice: -1
+        slot: 21
+       11:
+        type: item      
+        item:
+          material: sculk_sensor    
+          quantity: 1
+        buyPrice: 200
+        sellPrice: -1
+        slot: 22
+       13:
+        type: item      
+        item:
+          material: glow_item_frame    
+          quantity: 1
+        buyPrice: 150
+        sellPrice: -1
+        slot: 24
+       14:
+        type: item      
+        item:
+          material: lightning_rod     
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 25
+       15:
+        type: item      
+        item:
+          material: candle   
+          quantity: 1
+        buyPrice: 6.50
+        sellPrice: -1
+        slot: 28
+       16:
+        type: item      
+        item:
+          material: yellow_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 29
+       17:
+        type: item      
+        item:
+          material: white_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 30
+       18:
+        type: item      
+        item:
+          material: red_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 31
+       19:
+        type: item      
+        item:
+          material: purple_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 32
+       20:
+        type: item      
+        item:
+          material: pink_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 33
+       21:
+        type: item      
+        item:
+          material: orange_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 34
+       22:
+        type: item      
+        item:
+          material: magenta_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 37
+       23:
+        type: item      
+        item:
+          material: lime_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 38
+       24:
+        type: item      
+        item:
+          material: light_gray_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 39
+       25:
+        type: item      
+        item:
+          material: light_blue_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 40
+       26:
+        type: item      
+        item:
+          material: green_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 41
+       27:
+        type: item      
+        item:
+          material: gray_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 42
+       28:
+        type: item      
+        item:
+          material: cyan_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 43
+       29:
+        type: item      
+        item:
+          material: brown_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 10
+        page: 2
+       30:
+        type: item      
+        item:
+          material: blue_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 11
+        page: 2
+       31:
+        type: item      
+        item:
+          material: black_candle   
+          quantity: 1
+        buyPrice: 7.50
+        sellPrice: -1
+        slot: 12
+        page: 2
+       70:
+        type: special
+        special: balance
+        slot: 53
+       71:
+        type: special
+        special: balance
+        slot: 53
+        page: 2                                               
