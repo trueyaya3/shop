@@ -33,7 +33,7 @@
           material: nether_wart
           quantity: 1
         buyPrice: 50
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 12
       4:
         type: item
@@ -129,7 +129,7 @@
           material: POTATO
           quantity: 1
         buyPrice: 10
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 28
       16:
         type: item
@@ -137,7 +137,7 @@
           material: mushroom_stew
           quantity: 1
         buyPrice: 30
-        sellPrice: 5
+        sellPrice: -1
         slot: 29
       17:
         type: item
@@ -145,7 +145,7 @@
           material: CARROT
           quantity: 1
         buyPrice: 20
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 30
       18:
         type: item
@@ -153,7 +153,7 @@
           material: WHEAT
           quantity: 1
         buyPrice: 12
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 31
       19:
         type: item
@@ -177,7 +177,7 @@
           material: sugar_cane
           quantity: 1
         buyPrice: 20
-        sellPrice: 2.5
+        sellPrice: -1
         slot: 34
       22:
         type: item
@@ -185,7 +185,7 @@
           material: CACTUS
           quantity: 1
         buyPrice: 15
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 37
       23:
         type: item
@@ -241,7 +241,7 @@
           material: CAKE
           quantity: 1
         buyPrice: 100
-        sellPrice: 15
+        sellPrice: -1
         slot: 10
         page: 2
       30:
@@ -250,7 +250,7 @@
           material: pumpkin_pie
           quantity: 1
         buyPrice: 100
-        sellPrice: 5
+        sellPrice: -1
         slot: 11
         page: 2
       31:
@@ -268,7 +268,7 @@
           material: baked_potato
           quantity: 1
         buyPrice: 25
-        sellPrice: 2.5
+        sellPrice: -1
         slot: 13
         page: 2
       33:
@@ -277,7 +277,7 @@
           material: cooked_mutton
           quantity: 1
         buyPrice: 35
-        sellPrice: 1
+        sellPrice: -1
         slot: 14
         page: 2
       34:
@@ -286,7 +286,7 @@
           material: cooked_chicken
           quantity: 1
         buyPrice: 15
-        sellPrice: 1
+        sellPrice: -1
         slot: 15
         page: 2
       35:
@@ -295,7 +295,7 @@
           material: cooked_beef
           quantity: 1
         buyPrice: 40
-        sellPrice: 1
+        sellPrice: -1
         slot: 16
         page: 2
       36:
@@ -304,7 +304,7 @@
           material: cooked_porkchop
           quantity: 1
         buyPrice: 40
-        sellPrice: 1
+        sellPrice: -1
         slot: 19
         page: 2
       37:
@@ -313,7 +313,7 @@
           material: COD
           quantity: 1
         buyPrice: 30
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 20
         page: 2
       38:
@@ -322,7 +322,7 @@
           material: TROPICAL_FISH 
           quantity: 1
         buyPrice: 40
-        sellPrice: 8
+        sellPrice: -1
         slot: 21
         page: 2
       39:
@@ -331,7 +331,7 @@
           material: COOKED_COD
           quantity: 1
         buyPrice: 15
-        sellPrice: 3
+        sellPrice: -1
         slot: 22
         page: 2
       40:
@@ -340,7 +340,7 @@
           material: COOKED_SALMON
           quantity: 1
         buyPrice: 15
-        sellPrice: 4
+        sellPrice: -1
         slot: 23
         page: 2
       41:
@@ -538,7 +538,7 @@
           material: CRIMSON_FUNGUS
           quantity: 1
         buyPrice: 15
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 15
         page: 3
       206:
@@ -565,7 +565,7 @@
           material: WARPED_FUNGUS
           quantity: 1
         buyPrice: 15
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 20
         page: 3
       209:
@@ -583,7 +583,7 @@
           material: BEETROOT
           quantity: 1
         buyPrice: 20
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 22
         page: 3
       211:
@@ -637,7 +637,7 @@
           material: SWEET_BERRIES
           quantity: 1
         buyPrice: 20
-        sellPrice: 1.75
+        sellPrice: -1
         slot: 30
         page: 3
       217:
@@ -646,7 +646,7 @@
           material: GLOW_BERRIES
           quantity: 1
         buyPrice: 25
-        sellPrice: 1.75
+        sellPrice: -1
         slot: 31
         page: 3
       221:

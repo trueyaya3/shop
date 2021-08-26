@@ -457,7 +457,7 @@
           material: terracotta       
           quantity: 1
         buyPrice: 15
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 40
         page: 2
        62:
@@ -466,7 +466,7 @@
           material: white_terracotta   
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 41
         page: 2
        63:
@@ -475,7 +475,7 @@
           material: orange_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 42
         page: 2
        64:
@@ -484,7 +484,7 @@
           material: magenta_terracotta      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 43
         page: 2
        65:
@@ -493,7 +493,7 @@
           material: light_blue_terracotta      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 10
         page: 3
        66:
@@ -502,7 +502,7 @@
           material: yellow_terracotta       
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 11
         page: 3
        67:
@@ -511,7 +511,7 @@
           material: lime_terracotta   
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 12
         page: 3
        68:
@@ -520,7 +520,7 @@
           material: pink_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 13
         page: 3
        69:
@@ -529,7 +529,7 @@
           material: gray_terracotta    
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 14
         page: 3
        70:
@@ -538,7 +538,7 @@
           material: light_gray_terracotta      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 15
         page: 3
        71:
@@ -547,7 +547,7 @@
           material: cyan_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 16
         page: 3
        72:
@@ -556,7 +556,7 @@
           material: purple_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 19
         page: 3
        73:
@@ -565,7 +565,7 @@
           material: blue_terracotta    
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 20
         page: 3
        74:
@@ -574,7 +574,7 @@
           material: brown_terracotta    
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 21
         page: 3
        75:
@@ -583,7 +583,7 @@
           material: green_terracotta      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 22
         page: 3
        76:
@@ -592,7 +592,7 @@
           material: red_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 23
         page: 3
        77:
@@ -601,7 +601,7 @@
           material: black_terracotta     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 24
         page: 3
        78:
@@ -610,7 +610,7 @@
           material: white_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 25
         page: 3
        79:
@@ -619,7 +619,7 @@
           material: orange_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 28
         page: 3
        80:
@@ -628,7 +628,7 @@
           material: magenta_stained_glass     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 29
         page: 3
        81:
@@ -637,7 +637,7 @@
           material: light_blue_stained_glass     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 30
         page: 3
        82:
@@ -646,7 +646,7 @@
           material: yellow_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 31
         page: 3
        83:
@@ -655,7 +655,7 @@
           material: lime_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 32
         page: 3
        84:
@@ -664,7 +664,7 @@
           material: pink_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 33
         page: 3
        85:
@@ -673,7 +673,7 @@
           material: gray_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 34
         page: 3
        86:
@@ -682,7 +682,7 @@
           material: light_gray_stained_glass       
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 37
         page: 3
        87:
@@ -691,7 +691,7 @@
           material: cyan_stained_glass        
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 38
         page: 3
        88:
@@ -700,7 +700,7 @@
           material: purple_stained_glass       
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 39
         page: 3
        89:
@@ -709,7 +709,7 @@
           material: blue_stained_glass       
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 40
         page: 3
        90:
@@ -718,7 +718,7 @@
           material: brown_stained_glass     
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 41
         page: 3
        91:
@@ -727,7 +727,7 @@
           material: green_stained_glass       
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 42
         page: 3
        92:
@@ -736,7 +736,7 @@
           material: red_stained_glass      
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 43
         page: 3
        93:
@@ -745,7 +745,7 @@
           material: black_stained_glass    
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 10
         page: 4
        94:
@@ -789,7 +789,7 @@
         item:
           material: wither_skeleton_skull      
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 1500
         sellPrice: -1
         slot: 15
         page: 4

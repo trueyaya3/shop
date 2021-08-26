@@ -17,7 +17,7 @@
           material: STONE
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 10
       2:
         type: item
@@ -25,7 +25,7 @@
           material: GRANITE
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 11
       3:
         type: item
@@ -33,7 +33,7 @@
           material: ANDESITE
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 12       
       4:
         type: item
@@ -41,7 +41,7 @@
           material: COBBLESTONE
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.1
+        sellPrice: -1
         slot: 13   
       5:
         type: item
@@ -49,7 +49,7 @@
           material: mossy_cobblestone
           quantity: 1
         buyPrice: 11
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 14     
       6:
         type: item
@@ -57,7 +57,7 @@
           material: STONE_BRICKS
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 15       
       7:
         type: item
@@ -65,7 +65,7 @@
           material: MOSSY_STONE_BRICKS
           quantity: 1
         buyPrice: 37.5
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 16      
       8:
         type: item
@@ -73,7 +73,7 @@
           material: CRACKED_STONE_BRICKS
           quantity: 1
         buyPrice: 37.5
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 19        
       9:
         type: item
@@ -81,7 +81,7 @@
           material: CHISELED_STONE_BRICKS
           quantity: 1
         buyPrice: 37.5
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 20        
       11:
         type: item
@@ -89,7 +89,7 @@
           material: DIRT  
           quantity: 1
         buyPrice: 3
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 21      
       12:
         type: item
@@ -97,7 +97,7 @@
           material: grass_block
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 22       
       13:
         type: item
@@ -105,7 +105,7 @@
           material: coarse_dirt
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.4
+        sellPrice: -1
         slot: 23       
       14:
         type: item
@@ -113,7 +113,7 @@
           material: PODZOL
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.4
+        sellPrice: -1
         slot: 24       
       15:
         type: item
@@ -121,7 +121,7 @@
           material: mycelium
           quantity: 1
         buyPrice: 15
-        sellPrice: 2
+        sellPrice: -1
         slot: 25     
       16:
         type: item
@@ -129,7 +129,7 @@
           material: clay
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1
+        sellPrice: -1
         slot: 28             
       17:
         type: item
@@ -137,7 +137,7 @@
           material: GRAVEL
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 29         
       18:
         type: item
@@ -145,7 +145,7 @@
           material: SAND
           quantity: 1
         buyPrice: 4
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 30
       19:
         type: item
@@ -153,7 +153,7 @@
           material: red_sand
           quantity: 1
         buyPrice: 4
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 31
       20:
         type: item
@@ -161,7 +161,7 @@
           material: sandstone
           quantity: 1
         buyPrice: 18.75
-        sellPrice: 1.25
+        sellPrice: -1
         slot: 32   
       21:
         type: item
@@ -169,7 +169,7 @@
           material: GLASS
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 33
       28:
         type: item
@@ -177,7 +177,7 @@
           material: terracotta
           quantity: 1
         buyPrice: 15
-        sellPrice: 0.6
+        sellPrice: -1
         slot: 34      
       29:
         type: item
@@ -185,7 +185,7 @@
           material: DIORITE 
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 37
       30:
         type: item
@@ -193,7 +193,7 @@
           material: end_stone
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 2.5
+        sellPrice: -1
         slot: 38
       37:
         type: item
@@ -201,7 +201,7 @@
           material: Obsidian
           quantity: 1
         buyPrice: 25
-        sellPrice: 4
+        sellPrice: -1
         slot: 39
       38:
         type: item
@@ -209,7 +209,7 @@
           material: BRICKS
           quantity: 1
         buyPrice: 7
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 40
       39:
         type: item
@@ -217,7 +217,7 @@
           material: ICE
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 41
       40:
         type: item
@@ -225,7 +225,7 @@
           material: packed_ice
           quantity: 1
         buyPrice: 15
-        sellPrice: 3
+        sellPrice: -1
         slot: 42
       41:
         type: item
@@ -233,7 +233,7 @@
           material: snow_block
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 1
+        sellPrice: -1
         slot: 43
       42:
         type: item
@@ -241,7 +241,7 @@
           material: netherrack
           quantity: 1
         buyPrice: 7
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 10
         page: 2
       43:
@@ -250,7 +250,7 @@
           material: soul_sand
           quantity: 1
         buyPrice: 9
-        sellPrice: 1
+        sellPrice: -1
         slot: 11
         page: 2
       44:
@@ -259,7 +259,7 @@
           material: quartz_block
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 2
+        sellPrice: -1
         slot: 12
         page: 2
       45:
@@ -268,7 +268,7 @@
           material: nether_bricks
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 13
         page: 2
       46:
@@ -285,7 +285,7 @@
         item:
           material: SPONGE
           quantity: 1
-        buyPrice: 10000
+        buyPrice: 150
         sellPrice: -1 
         slot: 15
         page: 2
@@ -295,7 +295,7 @@
           material: prismarine
           quantity: 1
         buyPrice: 60
-        sellPrice: 3
+        sellPrice: -1
         slot: 16
         page: 2
       49:
@@ -304,7 +304,7 @@
           material: prismarine_bricks
           quantity: 1
         buyPrice: 100
-        sellPrice: 20 
+        sellPrice: -1 
         slot: 19
         page: 2
       50:
@@ -313,7 +313,7 @@
           material: dark_prismarine
           quantity: 1
         buyPrice: 150
-        sellPrice: 30 
+        sellPrice: -1 
         slot: 20
         page: 2
       51:
@@ -412,7 +412,7 @@
           material: SOUL_SOIL
           quantity: 1
         buyPrice: 10
-        sellPrice: 1 
+        sellPrice: -1 
         slot: 33
         page: 2
       209:
@@ -430,7 +430,7 @@
           material: BLACKSTONE
           quantity: 1
         buyPrice: 9
-        sellPrice: 1
+        sellPrice: -1
         slot: 37
         page: 2
       211:
@@ -439,7 +439,7 @@
           material: BASALT
           quantity: 1
         buyPrice: 8
-        sellPrice: 0.50
+        sellPrice: -1
         slot: 38
         page: 2
       212:
@@ -466,7 +466,7 @@
           material: TINTED_GLASS
           quantity: 1
         buyPrice: 12.50
-        sellPrice: 0.6
+        sellPrice: -1
         slot: 41
         page: 2
       215:
@@ -475,7 +475,7 @@
           material: calcite
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.30
+        sellPrice: -1
         slot: 42
         page: 2
       216:
@@ -484,7 +484,7 @@
           material: TUFF
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.30
+        sellPrice: -1
         slot: 43
         page: 2                               
       217:

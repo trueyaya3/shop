@@ -234,7 +234,7 @@
         item:
           material: netherite_helmet    
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 700
         sellPrice: -1
         slot: 11
        28:
@@ -242,7 +242,7 @@
         item:
           material: netherite_chestplate    
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 700
         sellPrice: -1
         slot: 20
        29:
@@ -250,7 +250,7 @@
         item:
           material: netherite_leggings 
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 700
         sellPrice: -1
         slot: 29
        30:
@@ -258,7 +258,7 @@
         item:
           material: netherite_boots
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 700
         sellPrice: -1
         slot: 38
        31:
@@ -266,7 +266,7 @@
         item:
           material: netherite_sword
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 700
         sellPrice: -1
         slot: 19
         page: 2

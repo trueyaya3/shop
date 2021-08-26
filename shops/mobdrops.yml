@@ -17,7 +17,7 @@
           material: rotten_flesh
           quantity: 1
         buyPrice: 9
-        sellPrice: 0.6
+        sellPrice: -1
         slot: 10
        2:
         type: item
@@ -33,7 +33,7 @@
           material: ender_pearl
           quantity: 1
         buyPrice: 20
-        sellPrice: 10
+        sellPrice: -1
         slot: 12
        4:
         type: item
@@ -41,7 +41,7 @@
           material: spider_eye
           quantity: 1
         buyPrice: 10
-        sellPrice: 5
+        sellPrice: -1
         slot: 13 
        5:
         type: item
@@ -49,7 +49,7 @@
           material: string
           quantity: 1
         buyPrice: 4
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 14  
        6:
         type: item
@@ -57,7 +57,7 @@
           material: arrow 
           quantity: 1
         buyPrice: 15
-        sellPrice: 0.25
+        sellPrice: -1
         slot: 15    
        7:
         type: item
@@ -65,7 +65,7 @@
           material: bone  
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 16      
        8:
         type: item
@@ -81,7 +81,7 @@
           material: blaze_rod
           quantity: 1
         buyPrice: 30
-        sellPrice: 3.75
+        sellPrice: -1
         slot: 20
        10:
         type: item
@@ -89,7 +89,7 @@
           material: leather
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 21
        11:
         type: item
@@ -97,7 +97,7 @@
           material: rabbit_hide
           quantity: 1
         buyPrice: 15
-        sellPrice: 1.5
+        sellPrice: -1
         slot: 22
        12:
         type: item
@@ -105,7 +105,7 @@
           material: rabbit_foot
           quantity: 1
         buyPrice: 25
-        sellPrice: 3
+        sellPrice: -1
         slot: 23
        13:
         type: item
@@ -113,7 +113,7 @@
           material: feather
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.6
+        sellPrice: -1
         slot: 24
        14:
         type: item
@@ -121,7 +121,7 @@
           material: egg
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.5
+        sellPrice: -1
         slot: 25 
        15:
         type: item
@@ -129,7 +129,7 @@
           material: white_wool
           quantity: 1
         buyPrice: 6.25
-        sellPrice: 1
+        sellPrice: -1
         slot: 28
        16:
         type: item
@@ -137,7 +137,7 @@
           material: prismarine_shard
           quantity: 1
         buyPrice: 7
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 29
        17:
         type: item
@@ -145,7 +145,7 @@
           material: prismarine_crystals
           quantity: 1
         buyPrice: 15
-        sellPrice: 1
+        sellPrice: -1
         slot: 30
        18:
         type: item
@@ -153,7 +153,7 @@
           material: beef
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 31
        19:
         type: item
@@ -161,7 +161,7 @@
           material: rabbit
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 32
        20:
         type: item
@@ -169,7 +169,7 @@
           material: porkchop
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 33
        21:
         type: item
@@ -177,7 +177,7 @@
           material: chicken
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 34
        22:
         type: item
@@ -185,7 +185,7 @@
           material: mutton
           quantity: 1
         buyPrice: 10
-        sellPrice: 1
+        sellPrice: -1
         slot: 37
        23:
         type: item
@@ -193,7 +193,7 @@
           material: gold_nugget
           quantity: 1
         buyPrice: 16
-        sellPrice: 15
+        sellPrice: -1
         slot: 38
        24:
         type: item
@@ -209,7 +209,7 @@
           material: ghast_tear
           quantity: 1
         buyPrice: 100
-        sellPrice: 8
+        sellPrice: -1
         slot: 40
        26:
         type: item
@@ -217,7 +217,7 @@
           material: phantom_membrane
           quantity: 1
         buyPrice: 30
-        sellPrice: 6
+        sellPrice: -1
         slot: 41
        28:
         type: item
@@ -225,7 +225,7 @@
           material: SHULKER_SHELL
           quantity: 1
         buyPrice: 270
-        sellPrice: 10
+        sellPrice: -1
         slot: 42
        29:
         type: item

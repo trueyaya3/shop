@@ -17,7 +17,7 @@
           material: stripped_oak_wood
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 10       
        2:
         type: item      
@@ -25,7 +25,7 @@
           material: stripped_spruce_wood   
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 11
        3:
         type: item      
@@ -33,7 +33,7 @@
           material: stripped_birch_wood  
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 12
        4:
         type: item      
@@ -41,7 +41,7 @@
           material: stripped_jungle_wood    
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 13
        5:
         type: item      
@@ -49,7 +49,7 @@
           material: stripped_acacia_wood    
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 14
        6:
         type: item      
@@ -57,7 +57,7 @@
           material: stripped_dark_oak_wood      
           quantity: 1
         buyPrice: 9
-        sellPrice: 3
+        sellPrice: -1
         slot: 10
        7:
         type: item      
@@ -113,7 +113,7 @@
           material: oak_log     
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 24
        14:
         type: item      
@@ -121,7 +121,7 @@
           material: spruce_log       
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 25
        15:
         type: item      
@@ -129,7 +129,7 @@
           material: birch_log   
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 28
        16:
         type: item      
@@ -137,7 +137,7 @@
           material: jungle_log      
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 29
        17:
         type: item      
@@ -145,7 +145,7 @@
           material: acacia_log    
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 30
        18:
         type: item      
@@ -153,7 +153,7 @@
           material: dark_oak_log    
           quantity: 1
         buyPrice: 10
-        sellPrice: 3
+        sellPrice: -1
         slot: 31
        19:
         type: item      
@@ -475,7 +475,7 @@
           material: WARPED_STEM
           quantity: 1
         buyPrice: 15
-        sellPrice: 3.25
+        sellPrice: -1
         slot: 42
         page: 2
        56:
@@ -547,7 +547,7 @@
           material: CRIMSON_STEM
           quantity: 1
         buyPrice: 15
-        sellPrice: 3.25
+        sellPrice: -1
         slot: 16
         page: 3
        64:

@@ -18,7 +18,7 @@
           material: COAL
           quantity: 1
         buyPrice: 9.3
-        sellPrice: 2.5
+        sellPrice: -1
         slot: 10
       2:
         type: item
@@ -26,7 +26,7 @@
           material: LAPIS_LAZULI
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 3
+        sellPrice: -1
         slot: 11
       3:
         type: item
@@ -34,7 +34,7 @@
           material: redstone
           quantity: 1
         buyPrice: 16
-        sellPrice: 3
+        sellPrice: -1
         slot: 12
       4:
         type: item
@@ -42,7 +42,7 @@
           material: iron_ingot
           quantity: 1
         buyPrice: 20
-        sellPrice: 9
+        sellPrice: -1
         slot: 13
       5:
         type: item
@@ -50,7 +50,7 @@
           material: gold_ingot
           quantity: 1
         buyPrice: 15
-        sellPrice: 10
+        sellPrice: -1
         slot: 14
       6:
         type: item
@@ -58,7 +58,7 @@
           material: diamond
           quantity: 1
         buyPrice: 50
-        sellPrice: 25
+        sellPrice: -1
         slot: 15
       7:
         type: item
@@ -66,7 +66,7 @@
           material: emerald
           quantity: 1
         buyPrice: 30
-        sellPrice: 13
+        sellPrice: -1
         slot: 16
       8:
         type: item
@@ -74,7 +74,7 @@
           material: prismarine_shard
           quantity: 1
         buyPrice: 7
-        sellPrice: 0.75
+        sellPrice: -1
         slot: 28   
       9:
         type: item
@@ -82,7 +82,7 @@
           material: quartz  
           quantity: 1
         buyPrice: 3
-        sellPrice: 1
+        sellPrice: -1
         slot: 29   
       10:
         type: item
@@ -90,7 +90,7 @@
           material: coal_block
           quantity: 1
         buyPrice: 30
-        sellPrice: 22.5
+        sellPrice: -1
         slot: 19
       11:
         type: item
@@ -98,7 +98,7 @@
           material: lapis_block
           quantity: 1
         buyPrice: 50
-        sellPrice: 27
+        sellPrice: -1
         slot: 20
       12:
         type: item
@@ -106,7 +106,7 @@
           material: redstone_block
           quantity: 1
         buyPrice: 50
-        sellPrice: 27
+        sellPrice: -1
         slot: 21  
       13:
         type: item
@@ -114,7 +114,7 @@
           material: iron_block
           quantity: 1
         buyPrice: 100
-        sellPrice: 81
+        sellPrice: -1
         slot: 22   
       14:
         type: item
@@ -122,7 +122,7 @@
           material: gold_block  
           quantity: 1
         buyPrice: 125
-        sellPrice: 90
+        sellPrice: -1
         slot: 23
       15:
         type: item
@@ -130,7 +130,7 @@
           material: diamond_block  
           quantity: 1
         buyPrice: 200
-        sellPrice: 175
+        sellPrice: -1
         slot: 24
       16:
         type: item
@@ -138,7 +138,7 @@
           material: emerald_block 
           quantity: 1
         buyPrice: 200
-        sellPrice: 175
+        sellPrice: -1
         slot: 25
       17:
         type: item
@@ -146,7 +146,7 @@
           material: prismarine 
           quantity: 1
         buyPrice: 30
-        sellPrice: 3
+        sellPrice: -1
         slot: 37
       18:
         type: item
@@ -154,7 +154,7 @@
           material: quartz_block 
           quantity: 1
         buyPrice: 12.5
-        sellPrice: 2
+        sellPrice: -1
         slot: 38
       19:
         type: item
@@ -162,7 +162,7 @@
           material: NETHERITE_SCRAP
           quantity: 1
         buyPrice: 75
-        sellPrice: 27.5
+        sellPrice: -1
         slot: 30
       20:
         type: item
@@ -170,7 +170,7 @@
           material: NETHERITE_BLOCK
           quantity: 1
         buyPrice: 500
-        sellPrice: 337.5
+        sellPrice: -1
         slot: 39
       21:
         type: item
@@ -178,7 +178,7 @@
           material: AMETHYST_SHARD
           quantity: 1
         buyPrice: 20
-        sellPrice: 4
+        sellPrice: -1
         slot: 31
       22:
         type: item
@@ -194,7 +194,7 @@
           material: COPPER_INGOT
           quantity: 1
         buyPrice: 27
-        sellPrice: 2.5
+        sellPrice: -1
         slot: 32
       24:
         type: item
@@ -202,7 +202,7 @@
           material: COPPER_BLOCK
           quantity: 1
         buyPrice: 50
-        sellPrice: 22.5
+        sellPrice: -1
         slot: 41                
       45:
         type: special

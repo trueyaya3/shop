@@ -17,7 +17,7 @@
           material: deepslate
           quantity: 1
         buyPrice: 10
-        sellPrice: 0.3
+        sellPrice: -1
         slot: 10       
        2:
         type: item      
@@ -25,7 +25,7 @@
           material: cobbled_deepslate   
           quantity: 1
         buyPrice: 7
-        sellPrice: 0.2
+        sellPrice: -1
         slot: 11
        3:
         type: item      
