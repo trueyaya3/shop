@@ -24,7 +24,7 @@
         item:
           material: bookshelf 
           quantity: 1
-        buyPrice: 31.25
+        buyPrice: 25
         sellPrice: 5
         slot: 11  
        3:
@@ -32,7 +32,7 @@
         item:
           material: enchanting_table
           quantity: 1
-        buyPrice: 350
+        buyPrice: 150
         sellPrice: 50
         slot: 12   
        4:
@@ -40,7 +40,7 @@
         item:
           material: ANVIL
           quantity: 1
-        buyPrice: 400
+        buyPrice: 70
         sellPrice: -1
         slot: 13
        5:
@@ -48,7 +48,7 @@
         item:
           material: ender_chest 
           quantity: 1
-        buyPrice: 200
+        buyPrice: 100
         sellPrice: -1
         slot: 14   
        6:
@@ -56,7 +56,7 @@
         item:
           material: CHEST   
           quantity: 1
-        buyPrice: 30
+        buyPrice: 15
         sellPrice: -1
         slot: 15    
        7:
@@ -64,7 +64,7 @@
         item:
           material: trapped_chest         
           quantity: 1       
-        buyPrice: 35
+        buyPrice: 30
         sellPrice: -1
         slot: 16    
        8:
@@ -72,7 +72,7 @@
         item:
           material: furnace     
           quantity: 1
-        buyPrice: 25
+        buyPrice: 10
         sellPrice: -1
         slot: 19
        9:
@@ -80,7 +80,7 @@
         item:
           material: crafting_table    
           quantity: 1
-        buyPrice: 25
+        buyPrice: 5
         sellPrice: -1
         slot: 20 
        10:
@@ -88,7 +88,7 @@
         item:
           material: jukebox   
           quantity: 1
-        buyPrice: 300
+        buyPrice: 100
         sellPrice: -1
         slot: 21
        11:
@@ -96,7 +96,7 @@
         item:
           material: note_block      
           quantity: 1
-        buyPrice: 250
+        buyPrice: 125
         sellPrice: -1
         slot: 22    
        12:
@@ -104,7 +104,7 @@
         item:
           material: flower_pot        
           quantity: 1
-        buyPrice: 50
+        buyPrice: 20
         sellPrice: -1
         slot: 23
        13:
@@ -112,7 +112,7 @@
         item:
           material: ladder       
           quantity: 1
-        buyPrice: 30
+        buyPrice: 10
         sellPrice: -1
         slot: 24
        16:
@@ -128,7 +128,7 @@
         item:
           material: iron_door       
           quantity: 1
-        buyPrice: 600
+        buyPrice: 50
         sellPrice: -1
         slot: 28
        21:
@@ -136,7 +136,7 @@
         item:
           material: red_bed       
           quantity: 1
-        buyPrice: 50
+        buyPrice: 25
         sellPrice: -1
         slot: 29
        22:
@@ -152,7 +152,7 @@
         item:
           material: painting       
           quantity: 1
-        buyPrice: 55
+        buyPrice: 25
         sellPrice: -1
         slot: 31
        24:
@@ -160,7 +160,7 @@
         item:
           material: armor_stand      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: -1
         slot: 32
        25:
@@ -168,7 +168,7 @@
         item:
           material: cobweb       
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 30
         sellPrice: 4
         slot: 33
        26:
@@ -176,7 +176,7 @@
         item:
           material: iron_bars       
           quantity: 1
-        buyPrice: 25
+        buyPrice: 17
         sellPrice: -1
         slot: 34
        27:
@@ -184,7 +184,7 @@
         item:
           material: skeleton_skull       
           quantity: 1
-        buyPrice: 500
+        buyPrice: 100
         sellPrice: -1
         slot: 37
        28:
@@ -192,7 +192,7 @@
         item:
           material: zombie_head      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 100
         sellPrice: -1
         slot: 38
        29:
@@ -208,7 +208,7 @@
         item:
           material: COCOA_BEANS     
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 40
        33:
@@ -216,7 +216,7 @@
         item:
           material: LAPIS_LAZULI      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 9
         sellPrice: -1
         slot: 41
        34:
@@ -224,7 +224,7 @@
         item:
           material: PURPLE_DYE       
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 42
        35:
@@ -232,7 +232,7 @@
         item:
           material: CYAN_DYE     
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 43
        36:
@@ -240,7 +240,7 @@
         item:
           material: LIGHT_GRAY_DYE      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 10
         page: 2
@@ -249,7 +249,7 @@
         item:
           material: GRAY_DYE     
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 11
         page: 2
@@ -258,7 +258,7 @@
         item:
           material: PINK_DYE      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 12
         page: 2
@@ -267,7 +267,7 @@
         item:
           material: LIME_DYE      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 13
         page: 2
@@ -276,7 +276,7 @@
         item:
           material: LIGHT_BLUE_DYE     
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 14
         page: 2
@@ -285,7 +285,7 @@
         item:
           material: MAGENTA_DYE      
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 15
         page: 2
@@ -294,7 +294,7 @@
         item:
           material: ORANGE_DYE       
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 16
         page: 2
@@ -303,7 +303,7 @@
         item:
           material: BONE_MEAL   
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 19
         page: 2
@@ -780,7 +780,7 @@
         item:
           material: creeper_head     
           quantity: 1
-        buyPrice: 500
+        buyPrice: 200
         sellPrice: -1
         slot: 14
         page: 4
@@ -789,7 +789,7 @@
         item:
           material: wither_skeleton_skull      
           quantity: 1
-        buyPrice: 2000
+        buyPrice: 1000
         sellPrice: -1
         slot: 15
         page: 4
@@ -799,7 +799,7 @@
           material: ink_sac
           damage: 0       
           quantity: 1
-        buyPrice: 39.5
+        buyPrice: 15
         sellPrice: -1
         slot: 16
         page: 4

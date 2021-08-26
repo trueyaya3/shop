@@ -20,7 +20,7 @@ potions:
             type: INVISIBILITY
             level: 1
             extended: true
-        buyPrice: 70
+        buyPrice: 100
         sellPrice: -1
         slot: 10
        2:
@@ -244,7 +244,7 @@ potions:
             type: LUCK
             level: 1
             extended: false
-        buyPrice: 50
+        buyPrice: 500
         sellPrice: -1
         slot: 10
         page: 3

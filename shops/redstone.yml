@@ -16,7 +16,7 @@
         item:
           material: hopper
           quantity: 1
-        buyPrice: 100
+        buyPrice: 40
         sellPrice: -1
         slot: 10      
        2:
@@ -24,7 +24,7 @@
         item:
           material: redstone_torch
           quantity: 1
-        buyPrice: 17
+        buyPrice: 10
         sellPrice: -1
         slot: 11         
        3:
@@ -32,7 +32,7 @@
         item:
           material: redstone_block  
           quantity: 1
-        buyPrice: 144
+        buyPrice: 100
         sellPrice: 27
         slot: 12           
        4:
@@ -40,7 +40,7 @@
         item:
           material: redstone_lamp 
           quantity: 1
-        buyPrice: 20
+        buyPrice: 15
         sellPrice: -1
         slot: 13    
        5:
@@ -56,7 +56,7 @@
         item:
           material: comparator  
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 15
         sellPrice: -1
         slot: 15      
        7:
@@ -64,7 +64,7 @@
         item:
           material: repeater  
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 15
         sellPrice: -1
         slot: 16
        8:
@@ -72,7 +72,7 @@
         item:
           material: piston      
           quantity: 1
-        buyPrice: 125
+        buyPrice: 50
         sellPrice: -1
         slot: 19 
        9:
@@ -80,7 +80,7 @@
         item:
           material: sticky_piston     
           quantity: 1
-        buyPrice: 150
+        buyPrice: 70
         sellPrice: -1
         slot: 20    
        10:
@@ -88,7 +88,7 @@
         item:
           material: dispenser       
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 30
         sellPrice: -1
         slot: 21      
        11:
@@ -96,7 +96,7 @@
         item:
           material: dropper       
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 30
         sellPrice: -1
         slot: 22       
        12:
@@ -104,7 +104,7 @@
         item:
           material: rail          
           quantity: 1
-        buyPrice: 31.25
+        buyPrice: 15
         sellPrice: -1
         slot: 23         
        13:
@@ -112,7 +112,7 @@
         item:
           material: detector_rail       
           quantity: 1
-        buyPrice: 34
+        buyPrice: 20
         sellPrice: -1
         slot: 24      
        14:
@@ -120,7 +120,7 @@
         item:
           material: powered_rail            
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 20
         sellPrice: -1
         slot: 25
        15:
@@ -128,7 +128,7 @@
         item:
           material: activator_rail            
           quantity: 1
-        buyPrice: 34
+        buyPrice: 20
         sellPrice: -1
         slot: 28
        16:
@@ -136,7 +136,7 @@
         item:
           material: OBSERVER            
           quantity: 1
-        buyPrice: 40
+        buyPrice: 25
         sellPrice: -1
         slot: 29
        17:
@@ -160,7 +160,7 @@
         item:
           material: LEVER           
           quantity: 1
-        buyPrice: 17
+        buyPrice: 5
         sellPrice: -1
         slot: 32
        20:
@@ -168,7 +168,7 @@
         item:
           material: TRIPWIRE_HOOK           
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 10
         sellPrice: -1
         slot: 33
        21:

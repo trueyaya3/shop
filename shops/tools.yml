@@ -16,7 +16,7 @@
         item:
           material: diamond_pickaxe       
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 300
         sellPrice: -1
         slot: 11       
        2:
@@ -24,7 +24,7 @@
         item:
           material: diamond_axe        
           quantity: 1
-        buyPrice: 1000 
+        buyPrice: 300 
         sellPrice: -1
         slot: 20
        3:
@@ -32,7 +32,7 @@
         item:
           material: diamond_shovel      
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 300
         sellPrice: -1
         slot: 29
        4:
@@ -40,7 +40,7 @@
         item:
           material: diamond_hoe      
           quantity: 1
-        buyPrice: 1000
+        buyPrice: 300
         sellPrice: -1
         slot: 38
        5:
@@ -48,7 +48,7 @@
         item:
           material: shears      
           quantity: 1
-        buyPrice: 200
+        buyPrice: 50
         sellPrice: -1
         slot: 43
        6:
@@ -56,7 +56,7 @@
         item:
           material: lead       
           quantity: 2
-        buyPrice: 200 
+        buyPrice: 25 
         sellPrice: -1
         slot: 16
        7:
@@ -64,7 +64,7 @@
         item:
           material: iron_pickaxe     
           quantity: 1
-        buyPrice: 700
+        buyPrice: 150
         sellPrice: -1
         slot: 12
        8:
@@ -72,7 +72,7 @@
         item:
           material: iron_axe     
           quantity: 1
-        buyPrice: 700
+        buyPrice: 150
         sellPrice: -1
         slot: 21
        9:
@@ -80,7 +80,7 @@
         item:
           material: iron_shovel       
           quantity: 1
-        buyPrice: 700
+        buyPrice: 150
         sellPrice: -1
         slot: 30
        10:
@@ -88,7 +88,7 @@
         item:
           material: iron_hoe        
           quantity: 1
-        buyPrice: 600
+        buyPrice: 150
         sellPrice: -1
         slot: 39
        11:
@@ -96,7 +96,7 @@
         item:
           material: fishing_rod      
           quantity: 1
-        buyPrice: 250
+        buyPrice: 75
         sellPrice: -1
         slot: 34
        12:
@@ -104,7 +104,7 @@
         item:
           material: flint_and_steel      
           quantity: 1
-        buyPrice: 250
+        buyPrice: 25
         sellPrice: -1
         slot: 25
        13:
@@ -112,7 +112,7 @@
         item:
           material: golden_pickaxe        
           quantity: 1
-        buyPrice: 450
+        buyPrice: 75
         sellPrice: -1
         slot: 13
        14:
@@ -120,7 +120,7 @@
         item:
           material: golden_axe     
           quantity: 1
-        buyPrice: 450
+        buyPrice: 75
         sellPrice: -1
         slot: 22
        15:
@@ -128,7 +128,7 @@
         item:
           material: golden_shovel        
           quantity: 1
-        buyPrice: 450
+        buyPrice: 75
         sellPrice: -1
         slot: 31
        16:
@@ -136,7 +136,7 @@
         item:
           material: golden_hoe    
           quantity: 1
-        buyPrice: 400
+        buyPrice: 75
         sellPrice: -1
         slot: 40
        17:
@@ -144,7 +144,7 @@
         item:
           material: stone_pickaxe      
           quantity: 1
-        buyPrice: 200 
+        buyPrice: 40 
         sellPrice: -1
         slot: 14
        18:
@@ -152,7 +152,7 @@
         item:
           material: stone_axe        
           quantity: 1
-        buyPrice: 200
+        buyPrice: 40
         sellPrice: -1
         slot: 23
        19:
@@ -160,7 +160,7 @@
         item:
           material: stone_shovel      
           quantity: 1
-        buyPrice: 200 
+        buyPrice: 40 
         sellPrice: -1
         slot: 32
        20:
@@ -168,7 +168,7 @@
         item:
           material: stone_hoe      
           quantity: 1
-        buyPrice: 200
+        buyPrice: 40
         sellPrice: -1
         slot: 41
        21:
@@ -176,7 +176,7 @@
         item:
           material: netherite_pickaxe    
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 1000
         sellPrice: -1
         slot: 10
        22:
@@ -184,7 +184,7 @@
         item:
           material: netherite_axe   
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 1000
         sellPrice: -1
         slot: 19
        23:
@@ -192,7 +192,7 @@
         item:
           material: netherite_shovel  
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 1000
         sellPrice: -1
         slot: 28
        24:
@@ -200,7 +200,7 @@
         item:
           material: netherite_hoe
           quantity: 1
-        buyPrice: 1500
+        buyPrice: 1000
         sellPrice: -1
         slot: 37
        25:

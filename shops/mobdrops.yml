@@ -24,7 +24,7 @@
         item:
           material: gunpowder
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 15
         sellPrice: -1
         slot: 11
        3:
@@ -32,7 +32,7 @@
         item:
           material: ender_pearl
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 20
         sellPrice: 10
         slot: 12
        4:
@@ -40,7 +40,7 @@
         item:
           material: spider_eye
           quantity: 1
-        buyPrice: 25
+        buyPrice: 10
         sellPrice: 5
         slot: 13 
        5:
@@ -64,7 +64,7 @@
         item:
           material: bone  
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: 0.5
         slot: 16      
        8:
@@ -72,7 +72,7 @@
         item:
           material: slime_ball
           quantity: 1
-        buyPrice: 50
+        buyPrice: 30
         sellPrice: -1
         slot: 19      
        9:
@@ -80,7 +80,7 @@
         item:
           material: blaze_rod
           quantity: 1
-        buyPrice: 62.5
+        buyPrice: 30
         sellPrice: 3.75
         slot: 20
        10:
@@ -88,7 +88,7 @@
         item:
           material: leather
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: 0.5
         slot: 21
        11:
@@ -96,7 +96,7 @@
         item:
           material: rabbit_hide
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 15
         sellPrice: 1.5
         slot: 22
        12:
@@ -104,7 +104,7 @@
         item:
           material: rabbit_foot
           quantity: 1
-        buyPrice: 50
+        buyPrice: 25
         sellPrice: 3
         slot: 23
        13:
@@ -112,7 +112,7 @@
         item:
           material: feather
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 10
         sellPrice: 0.6
         slot: 24
        14:
@@ -120,7 +120,7 @@
         item:
           material: egg
           quantity: 1
-        buyPrice: 25
+        buyPrice: 10
         sellPrice: 0.5
         slot: 25 
        15:
@@ -152,7 +152,7 @@
         item:
           material: beef
           quantity: 1
-        buyPrice: -1
+        buyPrice: 10
         sellPrice: 1
         slot: 31
        19:
@@ -160,7 +160,7 @@
         item:
           material: rabbit
           quantity: 1
-        buyPrice: -1
+        buyPrice: 10
         sellPrice: 1
         slot: 32
        20:
@@ -168,7 +168,7 @@
         item:
           material: porkchop
           quantity: 1
-        buyPrice: -1
+        buyPrice: 10
         sellPrice: 1
         slot: 33
        21:
@@ -176,7 +176,7 @@
         item:
           material: chicken
           quantity: 1
-        buyPrice: -1
+        buyPrice: 10
         sellPrice: 1
         slot: 34
        22:
@@ -184,7 +184,7 @@
         item:
           material: mutton
           quantity: 1
-        buyPrice: -1
+        buyPrice: 10
         sellPrice: 1
         slot: 37
        23:
@@ -193,7 +193,7 @@
           material: gold_nugget
           quantity: 1
         buyPrice: 16
-        sellPrice: -1
+        sellPrice: 15
         slot: 38
        24:
         type: item
@@ -208,7 +208,7 @@
         item:
           material: ghast_tear
           quantity: 1
-        buyPrice: 50
+        buyPrice: 100
         sellPrice: 8
         slot: 40
        26:
@@ -216,7 +216,7 @@
         item:
           material: phantom_membrane
           quantity: 1
-        buyPrice: 40
+        buyPrice: 30
         sellPrice: 6
         slot: 41
        28:
@@ -224,7 +224,7 @@
         item:
           material: SHULKER_SHELL
           quantity: 1
-        buyPrice: 300
+        buyPrice: 270
         sellPrice: 10
         slot: 42
        29:
@@ -232,7 +232,7 @@
         item:
           material: glow_ink_sac
           quantity: 1
-        buyPrice: 100.0
+        buyPrice: 50
         sellPrice: -1
         slot: 43                
        27:

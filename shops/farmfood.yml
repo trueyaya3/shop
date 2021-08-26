@@ -16,7 +16,7 @@
         item:
           material: VINE
           quantity: 1
-        buyPrice: 10
+        buyPrice: 5
         sellPrice: -1
         slot: 10
       2:
@@ -24,7 +24,7 @@
         item:
           material: lily_pad
           quantity: 1
-        buyPrice: 15
+        buyPrice: 5
         sellPrice: -1
         slot: 11
       3:
@@ -32,7 +32,7 @@
         item:
           material: nether_wart
           quantity: 1
-        buyPrice: 50
+        buyPrice: 15
         sellPrice: 1.5
         slot: 12
       4:
@@ -40,7 +40,7 @@
         item:
           material: wheat_seeds
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 13
       5:
@@ -48,7 +48,7 @@
         item:
           material: pumpkin_seeds
           quantity: 1
-        buyPrice: 25
+        buyPrice: 15
         sellPrice: -1
         slot: 14
       6:
@@ -56,7 +56,7 @@
         item:
           material: melon_seeds
           quantity: 1
-        buyPrice: 25
+        buyPrice: 15
         sellPrice: -1
         slot: 15
       7:
@@ -64,7 +64,7 @@
         item:
           material: COCOA_BEANS 
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 7
         sellPrice: -1
         slot: 16
       8:
@@ -72,7 +72,7 @@
         item:
           material: OAK_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 19
       9:
@@ -80,7 +80,7 @@
         item:
           material: SPRUCE_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 20
       10:
@@ -88,7 +88,7 @@
         item:
           material: BIRCH_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 21
       11:
@@ -96,7 +96,7 @@
         item:
           material: JUNGLE_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 22
       12:
@@ -104,7 +104,7 @@
         item:
           material: ACACIA_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 23
       13:
@@ -112,7 +112,7 @@
         item:
           material: DARK_OAK_SAPLING
           quantity: 1
-        buyPrice: 100
+        buyPrice: 15
         sellPrice: -1
         slot: 24
       14:
@@ -120,7 +120,7 @@
         item:
           material: melon_slice
           quantity: 1
-        buyPrice: 25
+        buyPrice: 15
         sellPrice: -1
         slot: 25
       15:
@@ -128,7 +128,7 @@
         item:
           material: POTATO
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: 1.5
         slot: 28
       16:
@@ -136,7 +136,7 @@
         item:
           material: mushroom_stew
           quantity: 1
-        buyPrice: 50
+        buyPrice: 30
         sellPrice: 5
         slot: 29
       17:
@@ -144,7 +144,7 @@
         item:
           material: CARROT
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 20
         sellPrice: 1.5
         slot: 30
       18:
@@ -152,7 +152,7 @@
         item:
           material: WHEAT
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 12
         sellPrice: 1.25
         slot: 31
       19:
@@ -160,7 +160,7 @@
         item:
           material: PUMPKIN 
           quantity: 1
-        buyPrice: 75
+        buyPrice: 20
         sellPrice: -1
         slot: 32
       20:
@@ -168,7 +168,7 @@
         item:
           material: MELON
           quantity: 1
-        buyPrice: 50
+        buyPrice: 30
         sellPrice: -1
         slot: 33
       21:
@@ -176,7 +176,7 @@
         item:
           material: sugar_cane
           quantity: 1
-        buyPrice: 25
+        buyPrice: 20
         sellPrice: 2.5
         slot: 34
       22:
@@ -184,7 +184,7 @@
         item:
           material: CACTUS
           quantity: 1
-        buyPrice: 25
+        buyPrice: 15
         sellPrice: 1.5
         slot: 37
       23:
@@ -192,7 +192,7 @@
         item:
           material: brown_mushroom
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: 1
         slot: 38
       24:
@@ -200,7 +200,7 @@
         item:
           material: red_mushroom
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: 1
         slot: 39
       25:
@@ -208,7 +208,7 @@
         item:
           material: APPLE
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 15
         sellPrice: -1
         slot: 40
       26:
@@ -240,7 +240,7 @@
         item:
           material: CAKE
           quantity: 1
-        buyPrice: 500
+        buyPrice: 100
         sellPrice: 15
         slot: 10
         page: 2
@@ -258,7 +258,7 @@
         item:
           material: BREAD
           quantity: 1
-        buyPrice: 25
+        buyPrice: 15
         sellPrice: -1
         slot: 12
         page: 2
@@ -267,7 +267,7 @@
         item:
           material: baked_potato
           quantity: 1
-        buyPrice: 30
+        buyPrice: 25
         sellPrice: 2.5
         slot: 13
         page: 2
@@ -330,7 +330,7 @@
         item:
           material: COOKED_COD
           quantity: 1
-        buyPrice: 31.25
+        buyPrice: 15
         sellPrice: 3
         slot: 22
         page: 2
@@ -339,7 +339,7 @@
         item:
           material: COOKED_SALMON
           quantity: 1
-        buyPrice: 40
+        buyPrice: 15
         sellPrice: 4
         slot: 23
         page: 2
@@ -348,7 +348,7 @@
         item:
           material: dandelion
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 24
         page: 2
@@ -357,7 +357,7 @@
         item:
           material: POPPY
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 25
         page: 2
@@ -366,7 +366,7 @@
         item:
           material: BLUE_ORCHID
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 28
         page: 2
@@ -375,7 +375,7 @@
         item:
           material: ALLIUM
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 29
         page: 2
@@ -384,7 +384,7 @@
         item:
           material: AZURE_BLUET
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 30
         page: 2
@@ -393,7 +393,7 @@
         item:
           material: RED_TULIP
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 31
         page: 2
@@ -402,7 +402,7 @@
         item:
           material: ORANGE_TULIP
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 32
         page: 2
@@ -411,7 +411,7 @@
         item:
           material: WHITE_TULIP
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 33
         page: 2
@@ -420,7 +420,7 @@
         item:
           material: PINK_TULIP
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1        
         slot: 34
         page: 2
@@ -429,7 +429,7 @@
         item:
           material: OXEYE_DAISY
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 5
         sellPrice: -1
         slot: 37
         page: 2
@@ -438,7 +438,7 @@
         item:
           material: sunflower
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: -1
         slot: 38
         page: 2
@@ -447,7 +447,7 @@
         item:
           material: LILAC
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: -1
         slot: 39
         page: 2
@@ -456,7 +456,7 @@
         item:
           material: TALL_GRASS
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 7
         sellPrice: -1
         slot: 40
         page: 2
@@ -465,7 +465,7 @@
         item:
           material: LARGE_FERN
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: -1
         slot: 41
         page: 2  
@@ -474,7 +474,7 @@
         item:
           material: ROSE_BUSH
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: -1
         slot: 42
         page: 2  
@@ -483,7 +483,7 @@
         item:
           material: PEONY
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 10
         sellPrice: -1
         slot: 43
         page: 2  
@@ -492,7 +492,7 @@
         item:
           material: dead_bush
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 15
         sellPrice: -1
         slot: 10
         page: 3
@@ -501,7 +501,7 @@
         item:
           material: kelp
           quantity: 1
-        buyPrice: 50
+        buyPrice: 20
         sellPrice: -1
         slot: 11
         page: 3
@@ -510,7 +510,7 @@
         item:
           material: scute
           quantity: 1
-        buyPrice: 133
+        buyPrice: 200
         sellPrice: -1
         slot: 12
         page: 3
@@ -528,7 +528,7 @@
         item:
           material: CRIMSON_ROOTS
           quantity: 1
-        buyPrice: 40
+        buyPrice: 20
         sellPrice: -1
         slot: 14
         page: 3
@@ -537,7 +537,7 @@
         item:
           material: CRIMSON_FUNGUS
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 15
         sellPrice: 1.25
         slot: 15
         page: 3
@@ -546,7 +546,7 @@
         item:
           material: WEEPING_VINES
           quantity: 1
-        buyPrice: 15
+        buyPrice: 10
         sellPrice: -1
         slot: 16
         page: 3
@@ -555,7 +555,7 @@
         item:
           material: WARPED_ROOTS
           quantity: 1
-        buyPrice: 40
+        buyPrice: 20
         sellPrice: -1
         slot: 19
         page: 3
@@ -564,7 +564,7 @@
         item:
           material: WARPED_FUNGUS
           quantity: 1
-        buyPrice: 18.75
+        buyPrice: 15
         sellPrice: 1.25
         slot: 20
         page: 3
@@ -573,7 +573,7 @@
         item:
           material: TWISTING_VINES
           quantity: 1
-        buyPrice: 15
+        buyPrice: 10
         sellPrice: -1
         slot: 21
         page: 3                        
@@ -582,7 +582,7 @@
         item:
           material: BEETROOT
           quantity: 1
-        buyPrice: 37.5
+        buyPrice: 20
         sellPrice: 1.5
         slot: 22
         page: 3
@@ -591,7 +591,7 @@
         item:
           material: GLOW_LICHEN
           quantity: 1
-        buyPrice: 15
+        buyPrice: 10
         sellPrice: -1
         slot: 23
         page: 3
@@ -600,7 +600,7 @@
         item:
           material: SMALL_DRIPLEAF
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 24
         page: 3
@@ -609,7 +609,7 @@
         item:
           material: BIG_DRIPLEAF
           quantity: 1
-        buyPrice: 50
+        buyPrice: 25
         sellPrice: -1
         slot: 25
         page: 3
@@ -618,7 +618,7 @@
         item:
           material: HANGING_ROOTS
           quantity: 1
-        buyPrice: 40
+        buyPrice: 25
         sellPrice: -1
         slot: 28
         page: 3
@@ -627,7 +627,7 @@
         item:
           material: SPORE_BLOSSOM
           quantity: 1
-        buyPrice: 500
+        buyPrice: 150
         sellPrice: -1
         slot: 29
         page: 3
@@ -636,7 +636,7 @@
         item:
           material: SWEET_BERRIES
           quantity: 1
-        buyPrice: 40.0
+        buyPrice: 20
         sellPrice: 1.75
         slot: 30
         page: 3
@@ -645,7 +645,7 @@
         item:
           material: GLOW_BERRIES
           quantity: 1
-        buyPrice: 40.0
+        buyPrice: 25
         sellPrice: 1.75
         slot: 31
         page: 3
@@ -654,7 +654,7 @@
         item:
           material: azalea
           quantity: 1
-        buyPrice: 200
+        buyPrice: 70
         sellPrice: -1
         slot: 32
         page: 3
@@ -663,7 +663,7 @@
         item:
           material: flowering_azalea
           quantity: 1
-        buyPrice: 300
+        buyPrice: 150
         sellPrice: -1
         slot: 33
         page: 3                                                              

@@ -16,7 +16,7 @@
         item:
           material: water_bucket
           quantity: 1
-        buyPrice: 50
+        buyPrice: 20
         sellPrice: -1
         slot: 10
        2:
@@ -24,7 +24,7 @@
         item:
           material: lava_bucket
           quantity: 1
-        buyPrice: 70
+        buyPrice: 30
         sellPrice: -1
         slot: 11  
        3:
@@ -32,7 +32,7 @@
         item:
           material: diamond_horse_armor
           quantity: 1
-        buyPrice: 500
+        buyPrice: 100
         sellPrice: -1
         slot: 12 
        4:
@@ -40,7 +40,7 @@
         item:
           material: golden_horse_armor
           quantity: 1
-        buyPrice: 300
+        buyPrice: 50
         sellPrice: -1
         slot: 13 
        5:
@@ -48,7 +48,7 @@
         item:
           material: iron_horse_armor
           quantity: 1
-        buyPrice: 200
+        buyPrice: 80
         sellPrice: -1
         slot: 14   
        6:
@@ -56,7 +56,7 @@
         item:
           material: SADDLE
           quantity: 1
-        buyPrice: 50
+        buyPrice: 30
         sellPrice: -1
         slot: 15
        7:
@@ -64,7 +64,7 @@
         item:
           material: LEAD
           quantity: 1
-        buyPrice: 100
+        buyPrice: 50
         sellPrice: -1
         slot: 16  
        9:
@@ -96,7 +96,7 @@
         item:
           material: beacon
           quantity: 1
-        buyPrice: 5000
+        buyPrice: 500
         sellPrice: -1
         slot: 22
        13:
@@ -104,7 +104,7 @@
         item:
           material: BOOK
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 10
         sellPrice: -1
         slot: 23
        16:
@@ -112,7 +112,7 @@
         item:
           material: flint_and_steel
           quantity: 1
-        buyPrice: 10
+        buyPrice: 5
         sellPrice: -1
         slot: 24
        17:
@@ -120,7 +120,7 @@
         item:
           material: oak_boat
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 25
        18:
@@ -128,7 +128,7 @@
         item:
           material: spruce_boat
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 28
        19:
@@ -136,7 +136,7 @@
         item:
           material: birch_boat
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 29
        20:
@@ -144,7 +144,7 @@
         item:
           material: jungle_boat
           quantity: 1
-        buyPrice: 250
+        buyPrice: 10
         sellPrice: -1
         slot: 30 
        21:
@@ -152,7 +152,7 @@
         item:
           material: acacia_boat
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 31
        22:
@@ -160,7 +160,7 @@
         item:
           material: dark_oak_boat
           quantity: 1
-        buyPrice: 20
+        buyPrice: 10
         sellPrice: -1
         slot: 32 
        23:
@@ -168,7 +168,7 @@
         item:
           material: pufferfish_bucket
           quantity: 1
-        buyPrice: 50
+        buyPrice: 40
         sellPrice: -1
         slot: 33 
        24:
