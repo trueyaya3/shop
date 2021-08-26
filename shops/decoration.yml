@@ -456,7 +456,7 @@
         item:
           material: terracotta       
           quantity: 1
-        buyPrice: 15
+        buyPrice: 6.25
         sellPrice: -1
         slot: 40
         page: 2
