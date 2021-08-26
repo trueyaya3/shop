@@ -99,7 +99,7 @@
         buyPrice: 200
         sellPrice: -1
         slot: 22
-       13:
+       12:
         type: item      
         item:
           material: glow_item_frame    
@@ -107,7 +107,7 @@
         buyPrice: 100
         sellPrice: -1
         slot: 24
-       14:
+       13:
         type: item      
         item:
           material: lightning_rod     
@@ -115,7 +115,7 @@
         buyPrice: 60
         sellPrice: -1
         slot: 25
-       15:
+       14:
         type: item      
         item:
           material: candle   
@@ -123,7 +123,7 @@
         buyPrice: 5
         sellPrice: -1
         slot: 28
-       16:
+       15:
         type: item      
         item:
           material: yellow_candle   
@@ -131,7 +131,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 29
-       17:
+       16:
         type: item      
         item:
           material: white_candle   
@@ -139,7 +139,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 30
-       18:
+       17:
         type: item      
         item:
           material: red_candle   
@@ -147,7 +147,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 31
-       19:
+       18:
         type: item      
         item:
           material: purple_candle   
@@ -155,7 +155,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 32
-       20:
+       19:
         type: item      
         item:
           material: pink_candle   
@@ -163,7 +163,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 33
-       21:
+       20:
         type: item      
         item:
           material: orange_candle   
@@ -171,7 +171,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 34
-       22:
+       21:
         type: item      
         item:
           material: magenta_candle   
@@ -179,7 +179,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 37
-       23:
+       22:
         type: item      
         item:
           material: lime_candle   
@@ -187,7 +187,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 38
-       24:
+       23:
         type: item      
         item:
           material: light_gray_candle   
@@ -195,7 +195,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 39
-       25:
+       24:
         type: item      
         item:
           material: light_blue_candle   
@@ -203,7 +203,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 40
-       26:
+       25:
         type: item      
         item:
           material: green_candle   
@@ -211,7 +211,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 41
-       27:
+       26:
         type: item      
         item:
           material: gray_candle   
@@ -219,7 +219,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 42
-       28:
+       29:
         type: item      
         item:
           material: cyan_candle   
@@ -227,7 +227,7 @@
         buyPrice: 6
         sellPrice: -1
         slot: 43
-       29:
+       30:
         type: item      
         item:
           material: brown_candle   
@@ -236,7 +236,7 @@
         sellPrice: -1
         slot: 10
         page: 2
-       30:
+       31:
         type: item      
         item:
           material: blue_candle   
@@ -245,7 +245,7 @@
         sellPrice: -1
         slot: 11
         page: 2
-       31:
+       32:
         type: item      
         item:
           material: black_candle   
