@@ -96,7 +96,7 @@
         item:
           material: beacon
           quantity: 1
-        buyPrice: 500
+        buyPrice: 4500
         sellPrice: -1
         slot: 22
        13:
