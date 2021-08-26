@@ -16,7 +16,7 @@
         item:
           material: diamond_pickaxe       
           quantity: 1
-        buyPrice: 300
+        buyPrice: 350
         sellPrice: -1
         slot: 11       
        2:
@@ -24,7 +24,7 @@
         item:
           material: diamond_axe        
           quantity: 1
-        buyPrice: 300 
+        buyPrice: 350 
         sellPrice: -1
         slot: 20
        3:
@@ -32,7 +32,7 @@
         item:
           material: diamond_shovel      
           quantity: 1
-        buyPrice: 300
+        buyPrice: 350
         sellPrice: -1
         slot: 29
        4:
@@ -40,7 +40,7 @@
         item:
           material: diamond_hoe      
           quantity: 1
-        buyPrice: 300
+        buyPrice: 350
         sellPrice: -1
         slot: 38
        5:
