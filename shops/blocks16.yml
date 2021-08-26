@@ -445,9 +445,9 @@
        52:
         type: item      
         item:
-          material: 50   
+          material: grindstone  
           quantity: 1
-        buyPrice: 4000
+        buyPrice: 50
         sellPrice: -1
         slot: 39
         page: 2
