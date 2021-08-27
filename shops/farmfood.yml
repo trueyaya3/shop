@@ -645,14 +645,14 @@
         item:
           material: GLOW_BERRIES
           quantity: 1
-        buyPrice: 25
+        buyPrice: 100
         sellPrice: -1
         slot: 31
         page: 3
       221:
         type: item
         item:
-          material: azalea
+          material: 200
           quantity: 1
         buyPrice: 70
         sellPrice: -1
@@ -663,7 +663,7 @@
         item:
           material: flowering_azalea
           quantity: 1
-        buyPrice: 150
+        buyPrice: 250
         sellPrice: -1
         slot: 33
         page: 3                                                              
