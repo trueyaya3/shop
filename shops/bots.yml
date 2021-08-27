@@ -1,0 +1,70 @@
+  bots:
+    name: "&8&BBots [page %page%/1]"
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: "" 
+    items:
+       1:
+        type: command
+        item:
+          material: leather_helmet
+          name: "&7T-1"
+          lore:
+            - ""
+            - "&fСерия: &aT"
+            - "&fНе агрессивный"
+            - ""
+            - "&fМодель: &a№1"
+            - "&fЗдоровье:&910"
+            - "&fУрон:&93"
+            - "&fСкорость:&90.5"
+            - "&fСкорость атаки:&930"
+            - "&fДальность:&910"
+            - ""
+            - "&8■ &7Инструкция:"
+            - "&a▶ &fДобавить под охрану:&e/sentinel guard %имя%"
+            - "&a▶ &fОткрыть инвентарь:&e/npc equip"
+            - "&a▶ &fТелепортировать:&e/npc tph"
+            - ""
+
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        page:: 1
+        slot: 10
+        commands:
+          - "npc create C-1-%PLAYER%"
+          - "trait sentinel"
+          - "sentinel guard %PLAYER%"
+          - "sentinel addavoid creepers"
+          - "sentinel addignore npcs"
+          - "sentinel attackrate 30"
+          - "sentinel health 10"
+          - "sentinel damage 3"
+          - "sentinel speed 0.9"
+          - "sentinel range 10"
+          - "sentinel attackrate 10"
+          - "sentinel chaserange 10"
+
+
+       71:
+        type: special
+        special: balance
+        slot: 53
+#       72:
+#        type: special
+#        special: balance
+#        slot: 53
+#        page: 2
+#       73:
+#        type: special
+#        special: balance
+#        slot: 53
+#        page: 3                

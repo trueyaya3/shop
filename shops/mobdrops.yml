@@ -224,7 +224,7 @@
         item:
           material: SHULKER_SHELL
           quantity: 1
-        buyPrice: 270
+        buyPrice: 200
         sellPrice: -1
         slot: 42
        29:

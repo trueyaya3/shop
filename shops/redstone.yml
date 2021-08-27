@@ -32,7 +32,7 @@
         item:
           material: redstone_block  
           quantity: 1
-        buyPrice: 100
+        buyPrice: 50
         sellPrice: -1
         slot: 12           
        4:
