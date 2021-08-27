@@ -144,7 +144,7 @@
         item:
           material: shulker_box   
           quantity: 1
-        buyPrice: 500
+        buyPrice: 380
         sellPrice: -1
         slot: 30
        18:
@@ -152,7 +152,7 @@
         item:
           material: white_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 31
        19:
@@ -160,7 +160,7 @@
         item:
           material: orange_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 32
        20:
@@ -168,7 +168,7 @@
         item:
           material: magenta_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 33
        21:
@@ -176,7 +176,7 @@
         item:
           material: light_blue_shulker_box   
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 34
        22:
@@ -184,7 +184,7 @@
         item:
           material: yellow_shulker_box  
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 37
        23:
@@ -192,7 +192,7 @@
         item:
           material: lime_shulker_box   
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 38
        24:
@@ -200,7 +200,7 @@
         item:
           material: pink_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 39
        25:
@@ -208,7 +208,7 @@
         item:
           material: gray_shulker_box 
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 40
        26:
@@ -216,7 +216,7 @@
         item:
           material: light_gray_shulker_box      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 41
        27:
@@ -224,7 +224,7 @@
         item:
           material: cyan_shulker_box  
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 42
        28:
@@ -232,7 +232,7 @@
         item:
           material: purple_shulker_box     
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 43
        29:
@@ -240,7 +240,7 @@
         item:
           material: blue_shulker_box   
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 10
         page: 2
@@ -249,7 +249,7 @@
         item:
           material: brown_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 11
         page: 2
@@ -258,7 +258,7 @@
         item:
           material: green_shulker_box      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 12
         page: 2
@@ -267,7 +267,7 @@
         item:
           material: red_shulker_box      
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 13
         page: 2
@@ -276,7 +276,7 @@
         item:
           material: black_shulker_box    
           quantity: 1
-        buyPrice: 500
+        buyPrice: 400
         sellPrice: -1
         slot: 14
         page: 2
