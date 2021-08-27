@@ -1,4 +1,4 @@
-abilities:
+  abilities:
     name: "&8&nAbility Shop [page %page%/1]"
     size: 45
     buttons:
