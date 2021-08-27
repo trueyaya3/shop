@@ -1,5 +1,5 @@
   wood:
-    name: "&8&Bots [page %page%/3]"
+    name: "&8&&Bots [page %page%/1]"
     buttons:
       goBack:
         slot: 49
@@ -37,6 +37,7 @@
           quantity: 1
         buyPrice: 100
         sellPrice: -1
+        page:: 1
         slot: 10
         commands:
           - "npc create C-1-%PLAYER%"
@@ -57,13 +58,13 @@
         type: special
         special: balance
         slot: 53
-       72:
-        type: special
-        special: balance
-        slot: 53
-        page: 2
-       73:
-        type: special
-        special: balance
-        slot: 53
-        page: 3                
+#       72:
+#        type: special
+#        special: balance
+#        slot: 53
+#        page: 2
+#       73:
+#        type: special
+#        special: balance
+#        slot: 53
+#        page: 3                
