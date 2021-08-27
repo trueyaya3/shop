@@ -65,7 +65,7 @@
           material: pointed_dripstone    
           quantity: 1
         buyPrice: 25
-        sellPrice: 2.0
+        sellPrice: -1
         slot: 16
        8:
         type: item      
