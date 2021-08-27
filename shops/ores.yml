@@ -137,7 +137,7 @@
         item:
           material: emerald_block 
           quantity: 1
-        buyPrice: 200
+        buyPrice: 100
         sellPrice: -1
         slot: 25
       17:
