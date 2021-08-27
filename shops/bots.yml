@@ -1,5 +1,5 @@
   bots:
-    name: "&8&&Bots [page %page%/1]"
+    name: "&8&BBots [page %page%/1]"
     buttons:
       goBack:
         slot: 49
@@ -14,7 +14,7 @@
        1:
         type: command
         item:
-          material: eather_helmet
+          material: leather_helmet
           name: "&7T-1"
           lore:
             - ""
