@@ -1,4 +1,4 @@
-potions:
+  potions:
     name: "&8&nPotions [page %page%/3]"
     buttons:
       goBack:
