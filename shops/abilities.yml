@@ -23,7 +23,7 @@
           - "quests a moddata fullreset %PLAYER%"
         buyPrice: 1000
         sellPrice: -1
-        slot: 22
+        slot: 21
        2:
         type: command
         item:
@@ -32,12 +32,13 @@
           name: "&a&lДоступ на хардков"
           damage: 0
         commands: 
+          - "lp user %PLAYER% permission unsettemp uhc.access"
           - "lp user %PLAYER% permission set uhc.access true"
         buyPrice: 100
         sellPrice: -1
         slot: 23        
         
-       2:
+       3:
         type: special
         special: balance
         slot: 44   
