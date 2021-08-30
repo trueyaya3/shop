@@ -24,7 +24,18 @@
         buyPrice: 1000
         sellPrice: -1
         slot: 22
-        
+       2:
+        type: command
+        item:
+          material: DIAMOND_SWORD
+          quantity: 1
+          name: "&a&lДоступ на хардков"
+          damage: 0
+        commands: 
+          - "lp user %PLAYER% permission set uhc.access true"
+        buyPrice: 100
+        sellPrice: -1
+        slot: 23        
         
        2:
         type: special
