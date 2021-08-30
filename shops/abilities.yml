@@ -33,8 +33,7 @@
           damage: 0
         commands: 
           - "lp user %PLAYER% permission unsettemp uhc.access"
-          - "lp user %PLAYER% permission set uhc.access true"
-        buyPrice: 100
+        buyPrice: 200
         sellPrice: -1
         slot: 23        
         
