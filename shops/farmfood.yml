@@ -216,7 +216,7 @@
         item:
           material: golden_apple
           quantity: 1
-        buyPrice: 50
+        buyPrice: 200
         sellPrice: -1
         slot: 41
       27:
