@@ -67,7 +67,6 @@
         buyPrice: 70
         sellPrice: -1
         slot: 16
-        page: 3        
        8:
         type: item      
         item:
@@ -75,9 +74,8 @@
           quantity: 64
         buyPrice: 70
         sellPrice: -1
-        slot: 17
-        page: 2        
+        slot: 19
        7:
         type: special
         special: balance
-        slot: 22
+        slot: 56
