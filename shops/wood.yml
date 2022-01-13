@@ -75,7 +75,7 @@
         buyPrice: 70
         sellPrice: -1
         slot: 19
-       7:
+       9:
         type: special
         special: balance
         slot: 56
