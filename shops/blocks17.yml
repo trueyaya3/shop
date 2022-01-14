@@ -15,7 +15,7 @@
         type: item
         item:
           material: deepslate
-          quantity: 1
+          quantity: 10
         buyPrice: 10
         sellPrice: -1
         slot: 10       
@@ -23,7 +23,7 @@
         type: item      
         item:
           material: cobbled_deepslate   
-          quantity: 1
+          quantity: 10
         buyPrice: 7
         sellPrice: -1
         slot: 11
@@ -31,7 +31,7 @@
         type: item      
         item:
           material: polished_deepslate  
-          quantity: 1
+          quantity: 10
         buyPrice: 20
         sellPrice: -1
         slot: 12
@@ -39,7 +39,7 @@
         type: item      
         item:
           material: deepslate_bricks    
-          quantity: 1
+          quantity: 10
         buyPrice: 25
         sellPrice: -1
         slot: 13
@@ -47,7 +47,7 @@
         type: item      
         item:
           material: deepslate_tiles    
-          quantity: 1
+          quantity: 10
         buyPrice: 40
         sellPrice: -1
         slot: 14
@@ -55,7 +55,7 @@
         type: item      
         item:
           material: chiseled_deepslate    
-          quantity: 1
+          quantity: 10
         buyPrice: 40
         sellPrice: -1
         slot: 15
@@ -63,7 +63,7 @@
         type: item      
         item:
           material: pointed_dripstone    
-          quantity: 1
+          quantity: 10
         buyPrice: 25
         sellPrice: -1
         slot: 16
@@ -72,7 +72,7 @@
         item:
           material: moss_block   
           quantity: 1
-        buyPrice: 5
+        buyPrice: 10
         sellPrice: -1
         slot: 19
        9:
