@@ -294,7 +294,7 @@
         item:
           material: prismarine
           quantity: 1
-        buyPrice: 60
+        buyPrice: 18
         sellPrice: -1
         slot: 16
         page: 2
@@ -303,7 +303,7 @@
         item:
           material: prismarine_bricks
           quantity: 1
-        buyPrice: 100
+        buyPrice: 18
         sellPrice: -1 
         slot: 19
         page: 2
@@ -312,7 +312,7 @@
         item:
           material: dark_prismarine
           quantity: 1
-        buyPrice: 150
+        buyPrice: 25
         sellPrice: -1 
         slot: 20
         page: 2
