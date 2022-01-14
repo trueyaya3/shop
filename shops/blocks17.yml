@@ -122,7 +122,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 27
+        slot: 28
        15:
         type: item      
         item:
@@ -130,7 +130,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 28
+        slot: 29
        16:
         type: item      
         item:
@@ -138,7 +138,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 29
+        slot: 30
        17:
         type: item      
         item:
@@ -146,7 +146,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 30
+        slot: 31
        18:
         type: item      
         item:
@@ -154,7 +154,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 31
+        slot: 32
        19:
         type: item      
         item:
@@ -162,7 +162,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 32
+        slot: 33
        20:
         type: item      
         item:
@@ -170,7 +170,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 33
+        slot: 34
        21:
         type: item      
         item:
@@ -178,7 +178,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 34
+        slot: 37
        22:
         type: item      
         item:
@@ -186,7 +186,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 35
+        slot: 38
        23:
         type: item      
         item:
@@ -194,7 +194,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 36
+        slot: 39
        24:
         type: item      
         item:
@@ -202,7 +202,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 39
+        slot: 40
        25:
         type: item      
         item:
@@ -210,7 +210,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 40
+        slot: 41
        26:
         type: item      
         item:
@@ -218,7 +218,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 41
+        slot: 42
        29:
         type: item      
         item:
@@ -226,7 +226,7 @@
           quantity: 1
         buyPrice: 8
         sellPrice: -1
-        slot: 42
+        slot: 43
        30:
         type: item      
         item:
