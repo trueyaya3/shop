@@ -63,7 +63,7 @@
         type: item      
         item:
           material: pointed_dripstone    
-          quantity: 10
+          quantity: 5
         buyPrice: 25
         sellPrice: -1
         slot: 16
