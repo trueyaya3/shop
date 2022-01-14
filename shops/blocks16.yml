@@ -492,7 +492,7 @@
         item:
           material: BEEHIVE
           quantity: 1
-        buyPrice: 200
+        buyPrice: 150
         sellPrice: -1
         slot: 10
         page: 3
@@ -563,7 +563,7 @@
         type: item      
         item:
           material: POLISHED_BLACKSTONE
-          quantity: 1
+          quantity: 5
         buyPrice: 40
         sellPrice: -1
         slot: 20
@@ -572,7 +572,7 @@
         type: item      
         item:
           material: POLISHED_BLACKSTONE_BRICKS
-          quantity: 1
+          quantity: 5
         buyPrice: 40
         sellPrice: -1
         slot: 21
