@@ -257,7 +257,7 @@
         type: item
         item:
           material: quartz_block
-          quantity: 1
+          quantity: 3
         buyPrice: 12.5
         sellPrice: -1
         slot: 12
