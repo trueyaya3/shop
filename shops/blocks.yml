@@ -320,9 +320,9 @@
         type: item
         item:
           material: glowstone
-          quantity: 1
+          quantity: 3
         buyPrice: 15
-        sellPrice: 3 
+        sellPrice: 4 
         slot: 21
         page: 2
       52:
