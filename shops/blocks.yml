@@ -200,7 +200,7 @@
         item:
           material: Obsidian
           quantity: 2
-        buyPrice: 30
+        buyPrice: 25
         sellPrice: -1
         slot: 39
       38:
