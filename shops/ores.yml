@@ -15,7 +15,7 @@
       1:
         type: item
         item:
-          material: COAL
+          material: minecraft:coal_ore
           quantity: 1
         buyPrice: 9.3
         sellPrice: -1
@@ -23,187 +23,166 @@
       2:
         type: item
         item:
-          material: LAPIS_LAZULI
+          material: minecraft:deepslate_coal_ore
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 9.7
         sellPrice: -1
         slot: 11
+
+
       3:
         type: item
         item:
-          material: redstone
+          material: minecraft:lapis_ore
           quantity: 1
-        buyPrice: 16
+        buyPrice: 12.5
         sellPrice: -1
         slot: 12
       4:
         type: item
         item:
-          material: iron_ingot
+          material: minecraft:deepslate_lapis_ore
           quantity: 1
-        buyPrice: 20
+        buyPrice: 12.9
         sellPrice: -1
         slot: 13
+
+
       5:
         type: item
         item:
-          material: gold_ingot
+          material: minecraft:redstone_ore
           quantity: 1
-        buyPrice: 15
+        buyPrice: 16
         sellPrice: -1
         slot: 14
+      5:
+        type: item
+        item:
+          material: minecraft:deepslate_redstone_ore
+          quantity: 1
+        buyPrice: 18
+        sellPrice: -1
+        slot: 15
+
+
       6:
         type: item
         item:
-          material: diamond
+          material: minecraft:gold_ore
           quantity: 1
-        buyPrice: 50
+        buyPrice: 20
         sellPrice: -1
-        slot: 15
+        slot: 16
       7:
         type: item
         item:
-          material: emerald
+          material: minecraft:minecraft:nether_gold_ore
           quantity: 1
-        buyPrice: 30
+        buyPrice: 12
         sellPrice: -1
-        slot: 16
+        slot: 19
       8:
         type: item
         item:
-          material: prismarine_shard
+          material: minecraft:minecraft:deepslate_gold_ore
           quantity: 1
-        buyPrice: 7
+        buyPrice: 22
         sellPrice: -1
-        slot: 28   
+        slot: 20
+
+
       9:
         type: item
         item:
-          material: quartz  
+          material: minecraft:iron_ore
           quantity: 1
-        buyPrice: 3
+        buyPrice: 15
         sellPrice: -1
-        slot: 29   
+        slot: 21
       10:
         type: item
         item:
-          material: coal_block
+          material: minecraft:minecraft:deepslate_iron_ore
           quantity: 1
-        buyPrice: 30
+        buyPrice: 15
         sellPrice: -1
-        slot: 19
+        slot: 22
+
+
       11:
         type: item
         item:
-          material: lapis_block
-          quantity: 1
-        buyPrice: 50
-        sellPrice: -1
-        slot: 20
-      12:
-        type: item
-        item:
-          material: redstone_block
-          quantity: 1
-        buyPrice: 50
-        sellPrice: -1
-        slot: 21  
-      13:
-        type: item
-        item:
-          material: iron_block
-          quantity: 1
-        buyPrice: 100
-        sellPrice: -1
-        slot: 22   
-      14:
-        type: item
-        item:
-          material: gold_block  
-          quantity: 1
-        buyPrice: 125
-        sellPrice: -1
-        slot: 23
-      15:
-        type: item
-        item:
-          material: diamond_block  
-          quantity: 1
-        buyPrice: 200
-        sellPrice: -1
-        slot: 24
-      16:
-        type: item
-        item:
-          material: emerald_block 
-          quantity: 1
-        buyPrice: 100
-        sellPrice: -1
-        slot: 25
-      17:
-        type: item
-        item:
-          material: prismarine 
+          material: minecraft:emerald_ore
           quantity: 1
         buyPrice: 30
         sellPrice: -1
-        slot: 37
-      18:
+        slot: 23
+      12:
         type: item
         item:
-          material: quartz_block 
+          material: minecraft:minecraft:deepslate_emerald_ore
           quantity: 1
-        buyPrice: 12.5
+        buyPrice: 35
         sellPrice: -1
-        slot: 38
-      19:
+        slot: 24
+
+
+      13:
         type: item
         item:
-          material: NETHERITE_SCRAP
+          material: minecraft:quartz_ore
+          quantity: 1
+        buyPrice: 15
+        sellPrice: -1
+        slot: 25
+
+
+      14:
+        type: item
+        item:
+          material: minecraft:copper_ore  
+          quantity: 1
+        buyPrice: 12
+        sellPrice: -1
+        slot: 28   
+      15:
+        type: item
+        item:
+          material: minecraft:minecraft:deepslate_copper_ore  
+          quantity: 1
+        buyPrice: 13
+        sellPrice: -1
+        slot: 29   
+
+
+      16:
+        type: item
+        item:
+          material: minecraft:minecraft:diamond_ore
           quantity: 1
         buyPrice: 100
         sellPrice: -1
         slot: 30
-      20:
+      17:
         type: item
         item:
-          material: NETHERITE_BLOCK
-          quantity: 1
-        buyPrice: 600
-        sellPrice: -1
-        slot: 39
-      21:
-        type: item
-        item:
-          material: AMETHYST_SHARD
-          quantity: 1
-        buyPrice: 20
-        sellPrice: -1
-        slot: 31
-      22:
-        type: item
-        item:
-          material: AMETHYST_BLOCK
+          material: minecraft:minecraft:minecraft:deepslate_diamond_ore
           quantity: 1
         buyPrice: 100
         sellPrice: -1
-        slot: 40
-      23:
+        slot: 31
+
+
+      18:
         type: item
         item:
-          material: COPPER_INGOT
+          material: minecraft:ancient_debris
           quantity: 1
-        buyPrice: 27
+        buyPrice: 600
         sellPrice: -1
-        slot: 32
-      24:
-        type: item
-        item:
-          material: COPPER_BLOCK
-          quantity: 1
-        buyPrice: 50
-        sellPrice: -1
-        slot: 41                
+        slot: 375
+
       45:
         type: special
         special: balance
