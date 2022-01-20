@@ -15,7 +15,7 @@
       1:
         type: item
         item:
-          material: minecraft:coal_ore
+          material: coal_ore
           quantity: 1
         buyPrice: 9.3
         sellPrice: -1
@@ -23,7 +23,7 @@
       2:
         type: item
         item:
-          material: minecraft:deepslate_coal_ore
+          material: deepslate_coal_ore
           quantity: 1
         buyPrice: 9.7
         sellPrice: -1
@@ -33,7 +33,7 @@
       3:
         type: item
         item:
-          material: minecraft:lapis_ore
+          material: lapis_ore
           quantity: 1
         buyPrice: 12.5
         sellPrice: -1
@@ -41,7 +41,7 @@
       4:
         type: item
         item:
-          material: minecraft:deepslate_lapis_ore
+          material: deepslate_lapis_ore
           quantity: 1
         buyPrice: 12.9
         sellPrice: -1
@@ -51,7 +51,7 @@
       5:
         type: item
         item:
-          material: minecraft:redstone_ore
+          material: redstone_ore
           quantity: 1
         buyPrice: 16
         sellPrice: -1
@@ -59,7 +59,7 @@
       5:
         type: item
         item:
-          material: minecraft:deepslate_redstone_ore
+          material: deepslate_redstone_ore
           quantity: 1
         buyPrice: 18
         sellPrice: -1
@@ -69,7 +69,7 @@
       6:
         type: item
         item:
-          material: minecraft:gold_ore
+          material: gold_ore
           quantity: 1
         buyPrice: 20
         sellPrice: -1
@@ -77,7 +77,7 @@
       7:
         type: item
         item:
-          material: minecraft:minecraft:nether_gold_ore
+          material: nether_gold_ore
           quantity: 1
         buyPrice: 12
         sellPrice: -1
@@ -85,7 +85,7 @@
       8:
         type: item
         item:
-          material: minecraft:minecraft:deepslate_gold_ore
+          material: deepslate_gold_ore
           quantity: 1
         buyPrice: 22
         sellPrice: -1
@@ -95,7 +95,7 @@
       9:
         type: item
         item:
-          material: minecraft:iron_ore
+          material: iron_ore
           quantity: 1
         buyPrice: 15
         sellPrice: -1
@@ -103,7 +103,7 @@
       10:
         type: item
         item:
-          material: minecraft:minecraft:deepslate_iron_ore
+          material: deepslate_iron_ore
           quantity: 1
         buyPrice: 15
         sellPrice: -1
@@ -113,7 +113,7 @@
       11:
         type: item
         item:
-          material: minecraft:emerald_ore
+          material: emerald_ore
           quantity: 1
         buyPrice: 30
         sellPrice: -1
@@ -121,7 +121,7 @@
       12:
         type: item
         item:
-          material: minecraft:minecraft:deepslate_emerald_ore
+          material: deepslate_emerald_ore
           quantity: 1
         buyPrice: 35
         sellPrice: -1
@@ -131,7 +131,7 @@
       13:
         type: item
         item:
-          material: minecraft:quartz_ore
+          material: quartz_ore
           quantity: 1
         buyPrice: 15
         sellPrice: -1
@@ -141,7 +141,7 @@
       14:
         type: item
         item:
-          material: minecraft:copper_ore  
+          material: copper_ore  
           quantity: 1
         buyPrice: 12
         sellPrice: -1
@@ -149,7 +149,7 @@
       15:
         type: item
         item:
-          material: minecraft:minecraft:deepslate_copper_ore  
+          material: deepslate_copper_ore  
           quantity: 1
         buyPrice: 13
         sellPrice: -1
@@ -159,7 +159,7 @@
       16:
         type: item
         item:
-          material: minecraft:minecraft:diamond_ore
+          material: diamond_ore
           quantity: 1
         buyPrice: 100
         sellPrice: -1
@@ -167,7 +167,7 @@
       17:
         type: item
         item:
-          material: minecraft:minecraft:minecraft:deepslate_diamond_ore
+          material: deepslate_diamond_ore
           quantity: 1
         buyPrice: 100
         sellPrice: -1
@@ -177,7 +177,7 @@
       18:
         type: item
         item:
-          material: minecraft:ancient_debris
+          material: ancient_debris
           quantity: 1
         buyPrice: 600
         sellPrice: -1
