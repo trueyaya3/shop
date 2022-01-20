@@ -199,8 +199,8 @@
         type: item
         item:
           material: Obsidian
-          quantity: 1
-        buyPrice: 25
+          quantity: 2
+        buyPrice: 30
         sellPrice: -1
         slot: 39
       38:
