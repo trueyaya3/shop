@@ -135,7 +135,7 @@
         type: item
         item:
           material: GRAVEL
-          quantity: 5
+          quantity: 7
         buyPrice: 6.25
         sellPrice: -1
         slot: 29         
@@ -144,15 +144,15 @@
         item:
           material: SAND
           quantity: 10
-        buyPrice: 4
+        buyPrice: 6
         sellPrice: -1
         slot: 30
       19:
         type: item
         item:
           material: red_sand
-          quantity: 5
-        buyPrice: 4
+          quantity: 10
+        buyPrice: 7
         sellPrice: -1
         slot: 31
       20:
