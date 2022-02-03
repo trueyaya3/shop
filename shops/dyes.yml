@@ -18,7 +18,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 42
+        slot: 1
        2:
         type: item
         item:
@@ -26,7 +26,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 43
+        slot: 2
        2:
         type: item
         item:
@@ -34,8 +34,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 10
-        page: 2
+        slot: 3
+        page: 1
        37:
         type: item
         item:
@@ -43,8 +43,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 11
-        page: 2
+        slot: 4
+        page: 1
        3:
         type: item
         item:
@@ -52,8 +52,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 12
-        page: 2
+        slot: 5
+        page: 1
        4:
         type: item
         item:
@@ -61,8 +61,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 13
-        page: 2
+        slot: 6
+        page: 1
        5:
         type: item
         item:
@@ -70,8 +70,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 14
-        page: 2
+        slot: 7
+        page: 1
        6:
         type: item
         item:
@@ -79,8 +79,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 15
-        page: 2
+        slot: 8
+        page: 1
        7:
         type: item
         item:
@@ -88,8 +88,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 16
-        page: 2
+        slot: 9
+        page: 1
        8:
         type: item
         item:
@@ -97,8 +97,8 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 19
-        page: 2
+        slot: 10
+        page: 1
        9:
         type: item
         item:
@@ -106,11 +106,11 @@
           quantity: 1
         buyPrice: 9
         sellPrice: -1
-        slot: 20
-        page: 2
+        slot: 11
+        page: 1
  
        10:
         type: special
         special: balance
         slot: 53
-        page: 3
+        page: 1
