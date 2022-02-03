@@ -67,8 +67,8 @@
         type: item
         item:
           material: LIGHT_BLUE_DYE     
-          quantity: 30
-        buyPrice: 7
+          quantity: 10
+        buyPrice: 30
         sellPrice: -1
         slot: 16
         page: 1
@@ -76,8 +76,8 @@
         type: item
         item:
           material: MAGENTA_DYE      
-          quantity: 30
-        buyPrice: 7
+          quantity: 10
+        buyPrice: 30
         sellPrice: -1
         slot: 19
         page: 1
@@ -85,8 +85,8 @@
         type: item
         item:
           material: ORANGE_DYE       
-          quantity: 30
-        buyPrice: 7
+          quantity: 10
+        buyPrice: 30
         sellPrice: -1
         slot: 20
         page: 1
@@ -95,7 +95,7 @@
         item:
           material: GREEN_DYE   
           quantity: 10
-        buyPrice: 7
+        buyPrice: 30
         sellPrice: -1
         slot: 21
         page: 1
@@ -104,7 +104,7 @@
         item:
           material: BLUE_DYE   
           quantity: 30
-        buyPrice: 7
+        buyPrice: 30
         sellPrice: -1
         slot: 22
         page: 1
@@ -113,7 +113,7 @@
         item:
           material: white_DYE       
           quantity: 30
-        buyPrice: 9
+        buyPrice: 30
         sellPrice: -1
         slot: 23
         page: 1
@@ -121,8 +121,8 @@
         type: item
         item:
           material: BLACK_DYE       
-          quantity: 50
-        buyPrice: 9
+          quantity: 10
+        buyPrice: 30
         sellPrice: -1
         slot: 24
         page: 1
@@ -130,8 +130,8 @@
         type: item
         item:
           material: BROWN_DYE       
-          quantity: 30
-        buyPrice: 9
+          quantity: 10
+        buyPrice: 30
         sellPrice: -1
         slot: 25
         page: 1
