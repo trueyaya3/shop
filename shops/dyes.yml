@@ -93,7 +93,7 @@
        10:
         type: item
         item:
-          material: ORANGE_DYE   
+          material: GREEN_DYE   
           quantity: 1
         buyPrice: 7
         sellPrice: -1
@@ -102,14 +102,23 @@
        11:
         type: item
         item:
+          material: BLUE_DYE   
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 13
+        page: 1
+       12:
+        type: item
+        item:
           material: white_DYE       
           quantity: 1
         buyPrice: 9
         sellPrice: -1
-        slot: 13
+        slot: 14
         page: 1
  
-       10:
+       13:
         type: special
         special: balance
         slot: 53
