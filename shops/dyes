@@ -1,0 +1,116 @@
+  dyes:
+    name: "&8&nКрасители [страница %page%/4]"
+    buttons:
+      goBack:
+        slot: 49
+      previousPage:
+        slot: 48
+      nextPage:
+        slot: 50
+    fillItem:
+        material: GRAY_STAINED_GLASS_PANE
+        name: "" 
+    items:
+       1:
+        type: item
+        item:
+          material: PURPLE_DYE       
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 42
+       2:
+        type: item
+        item:
+          material: CYAN_DYE     
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 43
+       2:
+        type: item
+        item:
+          material: LIGHT_GRAY_DYE      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 10
+        page: 2
+       37:
+        type: item
+        item:
+          material: GRAY_DYE     
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 11
+        page: 2
+       3:
+        type: item
+        item:
+          material: PINK_DYE      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 12
+        page: 2
+       4:
+        type: item
+        item:
+          material: LIME_DYE      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 13
+        page: 2
+       5:
+        type: item
+        item:
+          material: LIGHT_BLUE_DYE     
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 14
+        page: 2
+       6:
+        type: item
+        item:
+          material: MAGENTA_DYE      
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 15
+        page: 2
+       7:
+        type: item
+        item:
+          material: ORANGE_DYE       
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 16
+        page: 2
+       8:
+        type: item
+        item:
+          material: ORANGE_DYE   
+          quantity: 1
+        buyPrice: 7
+        sellPrice: -1
+        slot: 19
+        page: 2
+       9:
+        type: item
+        item:
+          material: white_DYE       
+          quantity: 1
+        buyPrice: 9
+        sellPrice: -1
+        slot: 20
+        page: 2
+ 
+       10:
+        type: special
+        special: balance
+        slot: 53
+        page: 3
