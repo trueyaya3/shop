@@ -117,8 +117,26 @@
         sellPrice: -1
         slot: 14
         page: 1
- 
        13:
+        type: item
+        item:
+          material: BLACK_DYE       
+          quantity: 1
+        buyPrice: 9
+        sellPrice: -1
+        slot: 15
+        page: 1
+       14:
+        type: item
+        item:
+          material: BROWN_DYE       
+          quantity: 1
+        buyPrice: 9
+        sellPrice: -1
+        slot: 16
+        page: 1
+ 
+       15:
         type: special
         special: balance
         slot: 53
