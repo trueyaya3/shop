@@ -79,7 +79,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 8
+        slot: 10
         page: 1
        7:
         type: item
@@ -88,7 +88,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 9
+        slot: 11
         page: 1
        8:
         type: item
@@ -97,7 +97,7 @@
           quantity: 1
         buyPrice: 7
         sellPrice: -1
-        slot: 10
+        slot: 12
         page: 1
        9:
         type: item
@@ -106,7 +106,7 @@
           quantity: 1
         buyPrice: 9
         sellPrice: -1
-        slot: 11
+        slot: 13
         page: 1
  
        10:
