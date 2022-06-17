@@ -128,7 +128,7 @@
           name: "&a&lУскорить майнинг час"
           damage: 0
         commands: 
-          - "effect give @a minecraft:haste 3600 2"
+          - "effect give @a minecraft:haste 3600 1"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на час","bold":true}'
         buyPrice: 500
         sellPrice: -1
@@ -141,7 +141,7 @@
           name: "&a&lУскорить майнинг 30 минут"
           damage: 0
         commands: 
-          - "effect give @a minecraft:haste 1800 2"
+          - "effect give @a minecraft:haste 1800 1"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем пол часа","bold":true}'
         buyPrice: 300
         sellPrice: -1
@@ -154,7 +154,7 @@
           name: "&a&lУскорить майнинг 10 мнут"
           damage: 0
         commands: 
-          - "effect give @a minecraft:haste 600 2"
+          - "effect give @a minecraft:haste 600 1"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на 10 минут","bold":true}'
         buyPrice: 150
         sellPrice: -1
