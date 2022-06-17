@@ -84,8 +84,8 @@
           - "lp group olds permission settemp orebfuscator.bypass true 1h accumulate "
           - "lp group nonooby permission settemp orebfuscator.bypass true 1h accumulate "
           - "lp group default permission settemp orebfuscator.bypass true 1h accumulate "
-          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на час","bold":true}'
-        buyPrice: 800
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на час. Нужно перезайти","bold":true}'
+        buyPrice: 1000
         sellPrice: -1
         slot: 20        
        5:
@@ -100,8 +100,8 @@
           - "lp group olds permission settemp orebfuscator.bypass true 30m accumulate "
           - "lp group nonooby permission settemp orebfuscator.bypass true 30m accumulate "
           - "lp group default permission settemp orebfuscator.bypass true 30m accumulate "
-          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на пол часа","bold":true}'
-        buyPrice: 500
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на пол часа. Нужно перезайти","bold":true}'
+        buyPrice: 600
         sellPrice: -1
         slot: 21       
        6:
@@ -116,8 +116,8 @@
           - "lp group olds permission settemp orebfuscator.bypass true 10m accumulate "
           - "lp group nonooby permission settemp orebfuscator.bypass true 10m accumulate "
           - "lp group default permission settemp orebfuscator.bypass true 10m accumulate "
-          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на 10 минут","bold":true}'
-        buyPrice: 200
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на 10 минут. Нужно перезайти","bold":true}'
+        buyPrice: 300
         sellPrice: -1
         slot: 22        
        7:
@@ -130,7 +130,7 @@
         commands: 
           - "effect give @a minecraft:haste 3600 2"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на час","bold":true}'
-        buyPrice: 500
+        buyPrice: 1000
         sellPrice: -1
         slot: 23        
        8:
@@ -143,7 +143,7 @@
         commands: 
           - "effect give @a minecraft:haste 1800 2"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем пол часа","bold":true}'
-        buyPrice: 300
+        buyPrice: 500
         sellPrice: -1
         slot: 24        
        9:
@@ -156,7 +156,7 @@
         commands: 
           - "effect give @a minecraft:haste 600 2"
           - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на 10 минут","bold":true}'
-        buyPrice: 150
+        buyPrice: 300
         sellPrice: -1
         slot: 25        
                 
