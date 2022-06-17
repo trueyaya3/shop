@@ -20,14 +20,14 @@
           name: "&a&lДать баритон час"
           damage: 0
         commands: 
-          - "lp group vip permission settemp vulcan.bypass.baritoneb true 1h"
-          - "lp group olds permission settemp vulcan.bypass.baritoneb true 1h"
-          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 1h"
-          - "lp group default permission settemp vulcan.bypass.baritoneb true 1h"
-          - "lp group vip permission settemp vulcan.bypass.baritonea true 1h"
-          - "lp group olds permission settemp vulcan.bypass.baritonea true 1h"
-          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 1h"
-          - "lp group default permission settemp vulcan.bypass.baritonea true 1h"
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 1h accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 1h accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 1h accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 1h accumulate "
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 1h accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 1h accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 1h accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritonea true 1h accumulate "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на час","bold":true}'
         buyPrice: 500
         sellPrice: -1
@@ -40,14 +40,14 @@
           name: "&a&lДать баритон 30 минут"
           damage: 0
         commands: 
-          - "lp group vip permission settemp vulcan.bypass.baritoneb true 30m"
-          - "lp group olds permission settemp vulcan.bypass.baritoneb true 30m"
-          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 30m"
-          - "lp group default permission settemp vulcan.bypass.baritoneb true 30m"
-          - "lp group vip permission settemp vulcan.bypass.baritonea true 30m"
-          - "lp group olds permission settemp vulcan.bypass.baritonea true 30m"
-          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 30m"
-          - "lp group default permission settemp vulcan.bypass.baritonea true 30m"
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 30m accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 30m accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 30m accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 30m accumulate "
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 30m accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 30m accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 30m accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritonea true 30maccumulate  "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на пол часа","bold":true}'
         buyPrice: 300
         sellPrice: -1
@@ -60,14 +60,14 @@
           name: "&a&lДать баритон 10 минут"
           damage: 0
         commands: 
-          - "lp group vip permission settemp vulcan.bypass.baritoneb true 10m"
-          - "lp group olds permission settemp vulcan.bypass.baritoneb true 10m"
-          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 10m"
-          - "lp group default permission settemp vulcan.bypass.baritoneb true 10m"
-          - "lp group vip permission settemp vulcan.bypass.baritonea true 10m"
-          - "lp group olds permission settemp vulcan.bypass.baritonea true 10m"
-          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 10m"
-          - "lp group default permission settemp vulcan.bypass.baritonea true 10m"
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 10m accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 10m accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 10m accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 10m accumulate "
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 10m accumulate "
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 10m accumulate "
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 10m accumulate "
+          - "lp group default permission settemp vulcan.bypass.baritonea true 10m accumulate "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на час","bold":true}'
         buyPrice: 150
         sellPrice: -1
@@ -80,10 +80,10 @@
           name: "&a&lРазрешить X-ray час"
           damage: 0
         commands: 
-          - "lp group vip permission settemp unset orebfuscator.bypass true 1h"
-          - "lp group olds permission settemp unset orebfuscator.bypass true 1h"
-          - "lp group nonooby permission settemp unset orebfuscator.bypass true 1h"
-          - "lp group default permission settemp unset orebfuscator.bypass true 1h"
+          - "lp group vip permission settemp orebfuscator.bypass true 1h accumulate "
+          - "lp group olds permission settemp orebfuscator.bypass true 1h accumulate "
+          - "lp group nonooby permission settemp orebfuscator.bypass true 1h accumulate "
+          - "lp group default permission settemp orebfuscator.bypass true 1h accumulate "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на час","bold":true}'
         buyPrice: 800
         sellPrice: -1
@@ -96,10 +96,10 @@
           name: "&a&lРазрешить X-ray 30 минут"
           damage: 0
         commands: 
-          - "lp group vip permission settemp unset orebfuscator.bypass true 30m"
-          - "lp group olds permission settemp unset orebfuscator.bypass true 30m"
-          - "lp group nonooby permission settemp unset orebfuscator.bypass true 30m"
-          - "lp group default permission settemp unset orebfuscator.bypass true 30m"
+          - "lp group vip permission settemp orebfuscator.bypass true 30m accumulate "
+          - "lp group olds permission settemp orebfuscator.bypass true 30m accumulate "
+          - "lp group nonooby permission settemp orebfuscator.bypass true 30m accumulate "
+          - "lp group default permission settemp orebfuscator.bypass true 30m accumulate "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на пол часа","bold":true}'
         buyPrice: 500
         sellPrice: -1
@@ -112,10 +112,10 @@
           name: "&a&lРазрешить X-ray 10 минут"
           damage: 0
         commands: 
-          - "lp group vip permission settemp unset orebfuscator.bypass true 10m"
-          - "lp group olds permission settemp unset orebfuscator.bypass true 10m"
-          - "lp group nonooby permission settemp unset orebfuscator.bypass true 10m"
-          - "lp group default permission settemp unset orebfuscator.bypass true 10m"
+          - "lp group vip permission settemp orebfuscator.bypass true 10m accumulate "
+          - "lp group olds permission settemp orebfuscator.bypass true 10m accumulate "
+          - "lp group nonooby permission settemp orebfuscator.bypass true 10m accumulate "
+          - "lp group default permission settemp orebfuscator.bypass true 10m accumulate "
           - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на 10 минут","bold":true}'
         buyPrice: 200
         sellPrice: -1
