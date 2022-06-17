@@ -17,7 +17,7 @@
         item:
           material: PAPER
           quantity: 1
-          name: "&a&lДать баритон"
+          name: "&a&lДать баритон час"
           damage: 0
         commands: 
           - "lp group vip permission settemp vulcan.bypass.baritoneb true 1h"
@@ -37,7 +37,7 @@
         item:
           material: PAPER
           quantity: 1
-          name: "&a&lДать баритон"
+          name: "&a&lДать баритон 30 минут"
           damage: 0
         commands: 
           - "lp group vip permission settemp vulcan.bypass.baritoneb true 30m"
@@ -57,7 +57,7 @@
         item:
           material: PAPER
           quantity: 1
-          name: "&a&lДать баритон"
+          name: "&a&lДать баритон 10 минут"
           damage: 0
         commands: 
           - "lp group vip permission settemp vulcan.bypass.baritoneb true 10m"
@@ -77,7 +77,7 @@
         item:
           material: DIAMOND_SWORD
           quantity: 1
-          name: "&a&lРазрешить X-ray"
+          name: "&a&lРазрешить X-ray час"
           damage: 0
         commands: 
           - "lp group vip permission settemp unset orebfuscator.bypass true 1h"
@@ -93,7 +93,7 @@
         item:
           material: DIAMOND_SWORD
           quantity: 1
-          name: "&a&lРазрешить X-ray"
+          name: "&a&lРазрешить X-ray 30 минут"
           damage: 0
         commands: 
           - "lp group vip permission settemp unset orebfuscator.bypass true 30m"
@@ -109,7 +109,7 @@
         item:
           material: DIAMOND_SWORD
           quantity: 1
-          name: "&a&lРазрешить X-ray"
+          name: "&a&lРазрешить X-ray 10 минут"
           damage: 0
         commands: 
           - "lp group vip permission settemp unset orebfuscator.bypass true 10m"
@@ -125,7 +125,7 @@
         item:
           material: DIAMOND_PICKAXE
           quantity: 1
-          name: "&a&lУскорить майнинг"
+          name: "&a&lУскорить майнинг час"
           damage: 0
         commands: 
           - "effect give @a minecraft:haste 3600 2"
@@ -138,7 +138,7 @@
         item:
           material: DIAMOND_PICKAXE
           quantity: 1
-          name: "&a&lУскорить майнинг"
+          name: "&a&lУскорить майнинг 30 минут"
           damage: 0
         commands: 
           - "effect give @a minecraft:haste 1800 2"
@@ -146,12 +146,12 @@
         buyPrice: 300
         sellPrice: -1
         slot: 24        
-       8:
+       9:
         type: command
         item:
           material: DIAMOND_PICKAXE
           quantity: 1
-          name: "&a&lУскорить майнинг"
+          name: "&a&lУскорить майнинг 10 мнут"
           damage: 0
         commands: 
           - "effect give @a minecraft:haste 600 2"
