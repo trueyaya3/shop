@@ -31,8 +31,48 @@
           - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на час","bold":true}'
         buyPrice: 500
         sellPrice: -1
-        slot: 21
+        slot: 17
        2:
+        type: command
+        item:
+          material: PAPER
+          quantity: 1
+          name: "&a&lДать баритон"
+          damage: 0
+        commands: 
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 30m"
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 30m"
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 30m"
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 30m"
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 30m"
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 30m"
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 30m"
+          - "lp group default permission settemp vulcan.bypass.baritonea true 30m"
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на пол часа","bold":true}'
+        buyPrice: 300
+        sellPrice: -1
+        slot: 18
+       3:
+        type: command
+        item:
+          material: PAPER
+          quantity: 1
+          name: "&a&lДать баритон"
+          damage: 0
+        commands: 
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 10m"
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 10m"
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 10m"
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 10m"
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 10m"
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 10m"
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 10m"
+          - "lp group default permission settemp vulcan.bypass.baritonea true 10m"
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на час","bold":true}'
+        buyPrice: 150
+        sellPrice: -1
+        slot: 19
+       4:
         type: command
         item:
           material: DIAMOND_SWORD
@@ -47,8 +87,40 @@
           - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на час","bold":true}'
         buyPrice: 800
         sellPrice: -1
+        slot: 20        
+       5:
+        type: command
+        item:
+          material: DIAMOND_SWORD
+          quantity: 1
+          name: "&a&lРазрешить X-ray"
+          damage: 0
+        commands: 
+          - "lp group vip permission settemp unset orebfuscator.bypass true 30m"
+          - "lp group olds permission settemp unset orebfuscator.bypass true 30m"
+          - "lp group nonooby permission settemp unset orebfuscator.bypass true 30m"
+          - "lp group default permission settemp unset orebfuscator.bypass true 30m"
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на пол часа","bold":true}'
+        buyPrice: 500
+        sellPrice: -1
+        slot: 21       
+       6:
+        type: command
+        item:
+          material: DIAMOND_SWORD
+          quantity: 1
+          name: "&a&lРазрешить X-ray"
+          damage: 0
+        commands: 
+          - "lp group vip permission settemp unset orebfuscator.bypass true 10m"
+          - "lp group olds permission settemp unset orebfuscator.bypass true 10m"
+          - "lp group nonooby permission settemp unset orebfuscator.bypass true 10m"
+          - "lp group default permission settemp unset orebfuscator.bypass true 10m"
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на 10 минут","bold":true}'
+        buyPrice: 200
+        sellPrice: -1
         slot: 22        
-       3:
+       7:
         type: command
         item:
           material: DIAMOND_PICKAXE
@@ -61,8 +133,34 @@
         buyPrice: 500
         sellPrice: -1
         slot: 23        
+       8:
+        type: command
+        item:
+          material: DIAMOND_PICKAXE
+          quantity: 1
+          name: "&a&lУскорить майнинг"
+          damage: 0
+        commands: 
+          - "effect give @a minecraft:haste 1800 2"
+          - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем пол часа","bold":true}'
+        buyPrice: 300
+        sellPrice: -1
+        slot: 24        
+       8:
+        type: command
+        item:
+          material: DIAMOND_PICKAXE
+          quantity: 1
+          name: "&a&lУскорить майнинг"
+          damage: 0
+        commands: 
+          - "effect give @a minecraft:haste 600 2"
+          - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на 10 минут","bold":true}'
+        buyPrice: 150
+        sellPrice: -1
+        slot: 25        
                 
-       4:
+       10:
         type: special
         special: balance
         slot: 44   
