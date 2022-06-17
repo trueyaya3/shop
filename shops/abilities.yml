@@ -28,7 +28,7 @@
           - "lp group olds permission settemp vulcan.bypass.baritonea true 1h"
           - "lp group nonooby permission settemp vulcan.bypass.baritonea true 1h"
           - "lp group default permission settemp vulcan.bypass.baritonea true 1h"
-          - 'title @a actionbar {"text":"%player% активировал всем баритон на час","bold":true}'
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем баритон на час","bold":true}'
         buyPrice: 500
         sellPrice: -1
         slot: 21
@@ -44,7 +44,7 @@
           - "lp group olds permission settemp unset orebfuscator.bypass true 1h"
           - "lp group nonooby permission settemp unset orebfuscator.bypass true 1h"
           - "lp group default permission settemp unset orebfuscator.bypass true 1h"
-          - 'title @a actionbar {"text":"%player% активировал всем X-ray на час","bold":true}'
+          - 'title @a actionbar {"text":"%PLAYER% активировал всем X-ray на час","bold":true}'
         buyPrice: 800
         sellPrice: -1
         slot: 22        
@@ -57,7 +57,7 @@
           damage: 0
         commands: 
           - "effect give @a minecraft:haste 3600 2"
-          - 'title @a actionbar {"text":"%player% активировал быстрый майнинг всем на час","bold":true}'
+          - 'title @a actionbar {"text":"%PLAYER% активировал быстрый майнинг всем на час","bold":true}'
         buyPrice: 500
         sellPrice: -1
         slot: 23        
