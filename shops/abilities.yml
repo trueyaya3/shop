@@ -1,5 +1,5 @@
   abilities:
-    name: "&8&nAbility Shop [page %page%/1]"
+    name: "&8&nБустеры [page %page%/1]"
     size: 45
     buttons:
       goBack:
@@ -17,11 +17,19 @@
         item:
           material: PAPER
           quantity: 1
-          name: "&a&lОчистить квесты"
+          name: "&a&lДать баритон"
           damage: 0
         commands: 
-          - "quests a moddata fullreset %PLAYER%"
-        buyPrice: 1000
+          - "lp group vip permission settemp vulcan.bypass.baritoneb true 1h"
+          - "lp group olds permission settemp vulcan.bypass.baritoneb true 1h"
+          - "lp group nonooby permission settemp vulcan.bypass.baritoneb true 1h"
+          - "lp group default permission settemp vulcan.bypass.baritoneb true 1h"
+          - "lp group vip permission settemp vulcan.bypass.baritonea true 1h"
+          - "lp group olds permission settemp vulcan.bypass.baritonea true 1h"
+          - "lp group nonooby permission settemp vulcan.bypass.baritonea true 1h"
+          - "lp group default permission settemp vulcan.bypass.baritonea true 1h"
+          - "title @a actionbar {"\text\":\"%player% активировал всем баритон на час\",\"bold\":true}"
+        buyPrice: 500
         sellPrice: -1
         slot: 21
        2:
@@ -29,15 +37,32 @@
         item:
           material: DIAMOND_SWORD
           quantity: 1
-          name: "&a&lДоступ на хардков"
+          name: "&a&lРазрешить X-ray"
           damage: 0
         commands: 
-          - "lp user %PLAYER% permission unsettemp uhc.access"
-        buyPrice: 200
+          - "lp group vip permission settemp unset orebfuscator.bypass true 1h"
+          - "lp group olds permission settemp unset orebfuscator.bypass true 1h"
+          - "lp group nonooby permission settemp unset orebfuscator.bypass true 1h"
+          - "lp group default permission settemp unset orebfuscator.bypass true 1h"
+          - "title @a actionbar {"\text\":\"%player% активировал всем X-ray на час\",\"bold\":true}"
+        buyPrice: 800
+        sellPrice: -1
+        slot: 22        
+       3:
+        type: command
+        item:
+          material: DIAMOND_PICKAXE
+          quantity: 1
+          name: "&a&lУскорить майнинг"
+          damage: 0
+        commands: 
+          - "effect give @a minecraft:haste 3600 2"
+          - "title @a actionbar {"\text\":\"%player% активировал быстрый майнинг всем на час\",\"bold\":true}"
+        buyPrice: 500
         sellPrice: -1
         slot: 23        
-        
-       3:
+                
+       4:
         type: special
         special: balance
         slot: 44   
